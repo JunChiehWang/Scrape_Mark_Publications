@@ -1,0 +1,2897 @@
+1
+Title: 
+M. J. Kushner and F. E. C. Culick, 
+"Extrema of Electron Density
+and Output Pulse Energy in a CuCl/Ne Discharge and a Cu/CuCl Double Pulsed
+Laser
+",
+Appl. Phys. Lett. 33, 728 (1978).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_33_728_1978.pdf
+----------------
+2
+Title: 
+M. J. Kushner and F. E. C. Culick, 
+"A Continuous Discharge Improves
+the Performance of the Cu/CuCl Double Pulsed Laser", 
+IEEE J. Quant. Elect. QE-15, 835 (1979).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jqe_15_835_1979.pdf
+----------------
+3
+Title: 
+M. J. Kushner and F. E. C. Culick, 
+"Characteristics of the Pumping Pulse and the Output Laser Pulse of a 
+Cu/CuCl Double Pulsed Laser", J. Quant. Elect. QE-16, 677 (1980).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jqe_16_677_1980.pdf
+----------------
+4
+Title: 
+M. J. Kushner and F. E. C. Culick, 
+"A Model for the Dissociation Pulse, Afterglow, and Laser Pulse in the 
+Cu/CuCl Double Pulsed Laser",
+J. Appl. Phys. 51, 3020 (1980).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_51_3020_1980.pdf
+----------------
+5
+Title: 
+M. J. Kushner, 
+"Characteristics of a UF6-H2/HF Nuclear Pumped Laser", 
+J. Appl. Phys. 51, 2421 (1980).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_51_2421_1980.pdf
+----------------
+6
+Title: 
+M. J. Kushner, W. M. Grossman and F. E. C. Culick, 
+"Electron Collision Quenching of CO(v) Chemiluminescence in CS2/O2 and 
+CS2/O2/N2O Flames", J. Appl. Phys. 52, 3776 (1981).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_52_3776_1981.pdf
+----------------
+7
+Title: 
+M. J. Kushner, 
+"A Self-Consistent Model for High Repetition Rate Copper Vapor Lasers", J. Quant. Elect. QE-17, 1555 (1981).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jqe_17_1555_1981.pdf
+----------------
+8
+Title: 
+M. J. Kushner, 
+"A Kinetic Study of the Plasma Etching Process I: A Model for the Etching of 
+Si and SiO2 in CnFm/H2 and CnFm/O2 Plasmas",
+J. Appl. Phys. 53, 2923 (1982).
+
+(ERRATA: J. Appl. Phys. 53, 6491 (1982)).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_53_2923_1982.pdf
+----------------
+9
+Title: 
+M. J. Kushner, 
+"A Kinetic Study of the Plasma Etching Process 
+II: Probe Measurements of Electron Properties in an RF Plasma Etching Reactor
+",
+J. Appl. Phys. 53, 2939 (1982).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_53_2939_1982.pdf
+----------------
+10
+Title: 
+P. J. Hargis and M. J. Kushner, 
+"Detection of CF2 Radicals in
+a Plasma Etching Reactor by KrF Laser-Induced-Fluorescence
+",
+Appl. Phys. Lett. 40, 779 (1982).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_40_779_1982.pdf
+----------------
+11
+Title: 
+M. J. Kushner, 
+"Probability Distributions for the Breakdown Voltage
+Between Closely Spaced Electrodes on Insulated Surfaces
+",
+J. Appl. Phys. 53, 6731 (1982).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_53_6731_1982.pdf
+----------------
+12
+Title: 
+M. J. Kushner, 
+"A Nuclear-Reactor Pumped Laser Excited by Ion-Ion Neutralization
+", J. Appl. Phys. 54, 39 (1983).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_54_39_1983.pdf
+----------------
+13
+Title: 
+W. G. Breiland and M. J. Kushner, 
+"Pulsed UV Laser Raman Spectroscopy of Silane in a Linear-Flow Chemical 
+Vapor Deposition Reactor
+", Appl. Phys. Lett. 42, 395 (1983).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_42_395_1983.pdf
+----------------
+14
+Title: 
+M. J. Kushner and B. E. Warner, 
+"Large Bore Copper Vapor Lasers: Kinetics and Scaling Issues
+",
+J. Appl. Phys. 54, 2970 (1983).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_54_2970_1983.pdf
+----------------
+15
+Title: 
+M. J. Kushner, 
+"Optogalvanic Isotope Enrichment of Copper Ions in Cu-Ne Positive 
+Column Discharges", 
+Appl. Opt. 22, 1970 (1983).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/ao_22_1970_1983.pdf
+----------------
+16
+Title: 
+M. J. Kushner, 
+"A Monte-Carlo Simulation of Electron Properties in Parallel Plate 
+Capacitively Coupled RF Discharges
+" J. Appl. Phys. 54, 4958 (1983).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_54_4958_1983.pdf
+----------------
+17
+Title: 
+M. J. Kushner, 
+"Floating Sheath Potentials in Non-Maxwellian Plasmas,
+"
+IEEE Trans. Plasma Sci. PS-13, 6 (1985).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_13_6_1985.pdf
+----------------
+18
+Title: 
+M. J. Kushner, 
+"Arc Expansion in Xenon Flashlamps,"
+J. Appl. Phys. 57, 2486 (1985).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_57_2486_1985.pdf
+----------------
+19
+Title: 
+M. J. Kushner, A. L. Pindroh, C. H. Fisher, T. A. Znotins and J. J.Ewing, 
+"Multidimensional Modeling of Transverse Avalanche Laser Discharges:
+Applications to the HgBr Laser,"
+J. Appl. Phys. 57, 2406 (1985).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_57_2406_1985.pdf
+----------------
+20
+Title: 
+M. J. Kushner, W. D. Kimura and S. R. Byron, 
+
+"Arc Resistance of Laser Triggered Spark Gaps,"
+J. Appl. Phys. 58, 1744 (1985).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_58_1744_1985.pdf
+----------------
+21
+Title: 
+M. J. Kushner, R. D. Milroy and W. D. Kimura, 
+"A Laser Triggered Spark Gap Model,"
+J. Appl. Phys. 58, 2988 (1985).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_58_2988_1985.pdf
+----------------
+22
+Title: 
+D. Barrett, W. D. Kimura, M. J. Kushner, E. A. Crawford and S. R. Byron,
+"Low Inductance Capacitive Probe for Spark Gap Voltage 
+Measurements,"
+Rev. Sci. Instrum. 56, 2111 (1985).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/rsi_56_2111_1985.pdf
+----------------
+23
+Title: 
+M. J. Kushner, W. D. Kimura, D. H. Ford and S. R. Byron, 
+"Dual Arc Formation in a Laser Triggered Spark Gap,"
+J. Appl. Phys. 58,
+4015 (1985).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_58_4015_1985.pdf
+----------------
+24
+Title: 
+M. J. Kushner, 
+"Distribution of Ion Energies on Electrodes in Capacitively Coupled 
+RF Discharges,"
+J. Appl. Phys. 58, 4024 (1985).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_58_4024_1985.pdf
+----------------
+25
+Title: 
+F. J. Kampas and M. J. Kushner, 
+"Effect of Silane Pressure on Silane-Hydrogen RF Glow Discharges,
+"
+IEEE Trans. Plasma Sci. PS-14, 173 (1986).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_14_173_1986.pdf
+----------------
+26
+Title: 
+M. J. Kushner, 
+"Mechanisms for Power Deposition in Ar/SiH4 Capacitively
+Coupled RF Discharges,
+"
+IEEE Trans. Plasma Sci. PS-14, 188 (1986).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_14_188_1986.pdf
+----------------
+27
+Title: 
+W. D. Kimura, M. J. Kushner, E. A. Crawford and S. R. Byron, 
+"Laser Interferometric Measurements of a Laser Preionization Triggered 
+Spark Column,
+"
+IEEE Trans. Plasma Sci. PS-14, 246 (1986).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_14_246_1986.pdf
+----------------
+28
+Title: 
+C. H. Fisher, J. J. Ewing, T. E. Dehart, M. J. Kushner and J. McDaniels,
+"High Efficiency XeCl Laser Excitation with Magnetic Switching,"
+Appl. Phys. Lett. 48, 1574 (1986).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_48_1574_1986.pdf
+----------------
+29
+Title: 
+M. J. Kushner and A. L. Pindroh, 
+"Discharge Constriction, Photodetachment, and Ionization Instabilities 
+in E-Beam Sustained Discharge Excimer Lasers,"
+J. Appl. Phys. 60, 904 (1986).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_60_904_1986.pdf
+----------------
+30
+Title: 
+M. J. Kushner, C. H. Fisher, J. Demboski, and R. A. Petr, 
+"Performance of and Excited State Densities in a Linear 
+Thyratron," 
+J. Appl. Phys. 60, 2766 (1986).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_60_2766_1986.pdf
+----------------
+31
+Title: 
+D. B. Harris, M. J. Kushner and others, "Future Developments and
+Applications of KrF Laser Fusion Systems," Fusion Technology 11,
+705 (1987).
+path: 
+No link found
+absolute path: 
+No link found
+----------------
+32
+Title: 
+M. J. Kushner, 
+"Application of a Particle Simulation to Modeling
+Commutation in a Linear Thyratron,"
+J. Appl. Phys. 61, 2784 (1987).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_61_2784_1987.pdf
+----------------
+33
+Title: 
+J. M. Eggleston and M. J. Kushner, 
+"Stimulated Brillouin Scattering Parasitics in Large Optical 
+Windows," 
+Optics Lett. 12, 410
+(1987).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/ol_12_410_1987.pdf
+----------------
+34
+Title: 
+M. J. Kushner, 
+"Discharge Instabilities Initiated by Nonuniform
+Laser Extraction in E-Beam Sustained Discharge KrF Lasers,"
+J. Appl. Phys. 62, 101 (1987).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_62_101_1987.pdf
+----------------
+35
+Title: 
+G. Hebner and M. J. Kushner, 
+"The Phase and Energy Distribution
+of Ions Incident on Electrodes in Radio Frequency Discharges,"
+J. Appl. Phys. 62, 2256 (1987).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_62_2256_1987.pdf
+----------------
+36
+Title: 
+M. J. Kushner, 
+"On the Balance Between Silyl and Silylene Radicals in RF Glow 
+Discharges in Silane: The Effect on Deposition Rates of a-Si:H,"
+J. Appl. Phys. 62, 2803 (1987).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_62_2803_1987.pdf
+----------------
+37
+Title: 
+M. J. Kushner, 
+"A Phenomenological Model for the Surface Deposition
+Kinetics During Plasma and Sputter Deposition of Amorphous Silicon,"
+J. Appl. Phys. 62, 4763, (1987).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_62_4763_1987.pdf
+----------------
+38
+Title: 
+G. A. Hebner, J. T. Verdeyen, and M. J. Kushner, 
+"An Experimental Study of a Parallel Plate Radio Frequency Discharge: 
+Measurements of the Radiation Temperature and Electron Density", 
+J. Appl. Phys. 63, 2226 (1988).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_63_2226_1988.pdf
+----------------
+39
+Title: 
+W. D. Kimura, M. J. Kushner, and J. Seamans, 
+"Characteristics of a Laser Triggered Spark Gap Using Air, Ar, CH4, 
+H2, He, N2, SF6, and Xe", 
+J. Appl. Phys. 63, 1882 (1988).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_63_1882_1988.pdf
+----------------
+40
+Title: 
+T. J. Moratz and M. J. Kushner, 
+"Fission Fragment Pumping of a Neon Plasma", 
+J. Appl. Phys. 63, 1796 (1988).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_63_1796_1988.pdf
+----------------
+41
+Title: 
+M. J. Kushner, 
+"A Model for the Discharge Kinetics and Plasma Chemistry During Plasma 
+Enhanced Chemical Vapor Deposition of Amorphous Silicon", 
+J. Appl. Phys. 63, 2532 (1988).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_63_2532_1988.pdf
+----------------
+42
+Title: 
+M. J. Kushner and T. J. Moratz, 
+"Direct Dissociation of F2 in Electron Beam Pumped Excimer Lasers: 
+The Effect on Electron Density", 
+Appl. Phys. Lett. 52, 1856 (1988).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_52_1856_1988.pdf
+----------------
+43
+Title: 
+T. J. Moratz, T. D. Saunders and M. J. Kushner, 
+"Heavy Ion vs Electron Beam Excitation of an Excimer Laser", 
+J. Appl. Phys. 64, 3799 (1988).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_64_3799_1988.pdf
+----------------
+44
+Title: 
+T. L. Peck and M. J. Kushner, 
+"Townsend Transport Coefficients for Surface Flashover 
+Discharges", 
+J. Appl. Phys. 64, 4404 (1988).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_64_4404_1988.pdf
+----------------
+45
+Title: 
+M. J. McCaughey and M. J. Kushner, 
+"Simulation of the Bulk and
+Surface Properties of Hydrogenated Amorphous Silicon Deposited from Silane
+Plasmas", 
+J. Appl. Phys. 65, 186 (1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_65_186_1989.pdf
+----------------
+46
+Title: 
+T. J. Moratz, T. D. Saunders, and M. J. Kushner,
+"High Temperature
+Kinetics in He and Ne Buffered XeF Lasers: The Effect on Absorption",
+Appl. Phys. Lett. 54, 102 (1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_54_102_1989.pdf
+----------------
+47
+Title: 
+M. J. McCaughey and M. J. Kushner, 
+"Production of Disilane and
+Silyl Sticking Coefficients During Plasma Enhanced Chemical Vapor Deposition
+of Hydrogenated Amorphous Silicon", 
+Appl. Phys. Lett. 54, 1642 (1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_54_1642_1989.pdf
+----------------
+48
+Title: 
+G. Y. Yeom, J. A. Thornton, and M. J. Kushner, 
+"Cylindrical Magnetron
+Discharges: I. Current-Voltage Characteristics for dc and rf Driven Discharge
+Sources", J. Appl. Phys. 65, 3816 (1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_65_3816_1989.pdf
+----------------
+49
+Title: 
+G. Y. Yeom, J. A. Thornton, and M. J. Kushner, 
+"Cylindrical Magnetron Discharges: 
+II. The Formation of dc Bias in rf Driven Discharge Sources",
+J. Appl. Phys. 65, 3825 (1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_65_3825_1989.pdf
+----------------
+50
+Title: 
+M. Ohwa and M. J. Kushner, 
+
+"The Effects of Ground State Dynamics on the Emission Spectra 
+of Electric Discharge Pumped XeCl Lasers: A Model
+for Injection Locking", 
+J. Appl. Phys. 65, 4138 (1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_65_4138_1989.pdf
+----------------
+51
+Title: 
+G. Y. Yeom and M. J. Kushner, 
+"Magnetic Field Effects on Cylindrical
+Magnetron Reactive Ion Etching of Si/SiO2 in CF4 and CF4/H2 Plasmas",
+J. Vac. Sci. Tech. A 7, 987 (1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_7_987_1989.pdf
+----------------
+52
+Title: 
+M. Pinarbasi, N. Maley, L. H. Chou, A. Myers, M. J. Kushner, J. R.
+Abelson and J. A. Thornton, 
+"Effect of Hydrogen on the Microstructural,
+Optical and Electronic Properties of a-Si:H Thin Films Deposited by DC
+Magnetron Reactive Sputtering", J. Vac. Sci. Tech. A 7, 1210
+(1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_7_1210_1989.pdf
+----------------
+53
+Title: 
+M. J. Kushner, 
+"Response Times and Energy Partitioning in Electron
+Beam Excited Plasmas", 
+J. Appl. Phys. 66, 2297 (1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_66_2297_1989.pdf
+----------------
+54
+Title: 
+H. Pak and M. J. Kushner, 
+"Simulation of the Switching Performance
+of an Optically Triggered Psuedo-Spark Thyratron", 
+J. Appl. Phys. 66, 2325 (1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_66_2325_1989.pdf
+----------------
+55
+Title: 
+M. J. McCaughey and M. J. Kushner, 
+"Electron Transport in Dusty Argon Plasmas", 
+Appl. Phys. Lett. 55, 951 (1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_55_951_1989.pdf
+----------------
+56
+Title: 
+M. Ohwa, T. J. Moratz and M. J. Kushner, 
+"Excitation Mechanisms of the Electron Beam Pumped 
+Atomic Xenon (5d   6p) Laser", 
+J. Appl. Phys. 66, 5131 (1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_66_5131_1989.pdf
+----------------
+57
+Title: 
+J. V. DiCarlo and M. J. Kushner, 
+"Solving the Spatially Dependent Boltzmann's Equation for 
+the Electron Velocity Distribution Using Flux Corrected Transport", 
+J. Appl. Phys. 66, 5763 (1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_66_5763_1989.pdf
+----------------
+58
+Title: 
+M. J. Kushner, D. E. Hanson and B. I. Schneider, 
+"Reassessment of the Rate Coefficient for Electron Collision Quenching 
+of KrF(B)", Appl. Phys. Lett. 55, 2482 (1989).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_55_2482_1989.pdf
+----------------
+59
+Title: 
+L. E. Kline and M. J. Kushner, "Computer Simulations of Materials
+Processing Plasma Discharges", in CRC Critical Reviews in Solid
+State and Materials Science, Vol. 16, (CRC Press, Florida 1989), pp.
+1-35).
+path: 
+No link found
+absolute path: 
+No link found
+----------------
+60
+Title: 
+G. Y. Yeom and M. J. Kushner, 
+"Si/SiO2 Etch Properties Using CF4 and CHF3 in Cylindrical 
+Magnetron Discharges", 
+Appl. Phys. Lett. 56, 857 (1990).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_56_857_1990.pdf
+----------------
+61
+Title: 
+M. Pinarbasi, J. R. Abelson and M. J. Kushner, 
+"Reduced Staebler-Wronski Effect in Reactively Sputtered Amorphous 
+Silicon Thin Films", 
+Appl.Phys. Lett. 56, 1685 (1990).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_56_1685_1990.pdf
+----------------
+62
+Title: 
+M. Pinarbasi, M. J. Kushner and J. R. Abelson, 
+"Electronic Stability
+of the Reactively Sputtered Hydrogenated Silicon Thin Films: The Effect
+of Hydrogen Content", J. Vac. Sci. Tech. A 8, 1369 (1990).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_8_1369_1990.pdf
+----------------
+63
+Title: 
+M. Pinarbasi, J. R. Abelson and M. J. Kushner, 
+"Effect of Hydrogen Content on the Light Induced Defect Generation 
+in Direct Current Magnetron Reactively Sputtered Amorphous 
+Silicon Thin Films", 
+J. Appl. Phys. 68, 2255 (1990).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_68_2255_1990.pdf
+----------------
+64
+Title: 
+H. Pak and M. J. Kushner, 
+"A Multi-Beam-Bulk Model for Electron Transport During Commutation in 
+an Optically Triggered Pseudospark Thyratron",
+Appl. Phys. Lett. 57, 1619 (1990).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_57_1619_1990.pdf
+----------------
+65
+Title: 
+M. J. Kushner, 
+"Return Currents in Large Aperture Electron Beam
+Excited KrF Lasers", 
+IEEE J. Quant. Electron. 26, 1546-1554 (1990).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jqe_26_1546_1990.pdf
+----------------
+66
+Title: 
+M. Ohwa and M. J. Kushner, 
+"Energy Loading Effects in Scaling
+the Atomic Xenon Laser", 
+IEEE J. Quant. Electron. 26, 1639-1646 (1990).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jqe_26_1639_1990.pdf
+----------------
+67
+Title: 
+P. J. Peters, Y. F. Lan, M. Ohwa and M. J. Kushner, 
+"Impact of
+Electron Collision Mixing on the Delay Times of an Electron Beam Excited
+Atomic Xenon Laser", 
+J. Quant. Electron. 26, 1964-1970 (1990).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jqe_26_1964_1990.pdf
+----------------
+68
+Title: 
+Y. Weng and M. J. Kushner, 
+"A Method for Including Electron-Electron
+Collisions in Monte Carlo Simulations of Electron Swarms in Partially Ionized
+Plasmas", Phys. Rev. A. 42, 6192 (1990).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/pra_42_6192_1990.pdf
+----------------
+69
+Title: 
+M. J. Kushner, 
+"Microarcs as a Termination Mechanism of Optical
+Pulses in Electric Discharge Excited KrF Lasers", 
+Trans. Plasma Science19, 387 (1991).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_19_387_1991.pdf
+----------------
+70
+Title: 
+M. J. Kushner and D. B. Graves, "Guest Editorial", Special
+Issue of Transactions on Modeling Collisional Low Temperature Plasmas,
+IEEE Trans. Plasma Science 19, 63 (1991).
+path: 
+No link found
+absolute path: 
+No link found
+----------------
+71
+Title: 
+G. N. Hays, W. J. Alford, M. Ohwa and M. J. Kushner, 
+"The Effects
+of He Addition on the Performance of the Fission Fragment Excited Ar/Xe
+Atomic Xenon Laser", J. Appl. Phys. 69, 1843 (1991).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_69_1843_1991.pdf
+----------------
+72
+Title: 
+M. B. Chang, J. H. Balbach, M. J. Rood and M. J. Kushner, 
+"Removal of SO2 from Gas Streams Using a Dielectric Barrier 
+Discharge", J. Appl. Phys. 69, 4409 (1991).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_69_4409_1991.pdf
+----------------
+73
+Title: 
+M. J. McCaughey and M. J. Kushner, 
+"A Model for Particulate Contaminated Glow Discharges", 
+J. Appl. Phys. 69, 6952 (1991).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_69_6952_1991.pdf
+----------------
+74
+Title: 
+T. J. Sommerer and M. J. Kushner, 
+"Translationally Hot Neutrals in Etching Discharges", 
+J. Appl. Phys. 70, 1240 (1991).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_70_1240_1991.pdf
+----------------
+75
+Title: 
+H. Hwang, R. Hui, K. James and M. J. Kushner, 
+"Fluorocarbon Impurities in E-Beam Excited KrF Lasers", 
+J. Appl. Phys. 69, 7419 (1991).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_69_7419_1991.pdf
+----------------
+76
+Title: 
+T. J. Sommerer, M. S. Barnes, J. H. Keller, M. J. McCaughey and M.
+J. Kushner, 
+"Monte Carlo Fluid Hybrid Model of the Accumulation of
+Dust Particles at Sheath Edges in Radio Frequency Discharges", Appl.
+Phys. Lett. 59, 638 (1991).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_59_638_1991.pdf
+----------------
+77
+Title: 
+S. J. Choi, M. J. McCaughey, T. J. Sommerer and M. J. Kushner, 
+"Perturbation of the Cathode Fall in dc Glow Discharges by 
+Particulate Contamination",
+Appl. Phys. Lett. 59, 3102 (1991).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_59_3102_1991.pdf
+----------------
+78
+Title: 
+H. Pak and M. J. Kushner, 
+"Breakdown Characteristics in Nonplanar Geometries and Hollow Cathode 
+Pseudospark Switches", J. Appl. Phys. 71, 94 (1992).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_71_94_1992.pdf
+----------------
+79
+Title: 
+A. Garscadden, M. J. Kushner and J. G. Eden, 
+"Partially Ionized Plasma Physics and Gas Discharge Lasers", 
+IEEE Transactions on Plasma Science 19, 1013 (1991).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_19_1013_1991.pdf
+----------------
+80
+Title: 
+M. B. Chang, M. J. Kushner and M. J. Rood, 
+"Gas Phase Removal of NO from Gas Streams via Dielectric Barrier 
+Discharges", 
+Environmental Science and Technology 26, 777 (1992).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/est_26_777_1992.pdf
+----------------
+81
+Title: 
+T. J. Sommerer and M. J. Kushner, 
+"Numerical Investigation of the Kinetics and Chemistry of rf Glow 
+Discharge Plasmas Sustained in He,
+N2, O2, He/N2/O2, He/CF4/O2, and SiH4/NH3 Using a Monte Carlo-Fluid Hybrid
+Model", J. Appl. Phys. 71, 1654 (1992).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_71_1654_1992.pdf
+----------------
+82
+Title: 
+M. J. Kushner, 
+"Simulation of the Gas Phase Processes in Remote
+Plasma Activated Chemical Vapor Deposition of Silicon Dielectrics Using
+Rare Gas-Silane-Ammonia Mixtures", J. Appl. Phys. 71, 4173
+(1992).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_71_4173_1992.pdf
+----------------
+83
+Title: 
+Y. Weng and M. J. Kushner, 
+"Electron Energy Distributions in Electron
+Cyclotron Resonance Discharges for Materials Processing", J. Appl.
+Phys. 72, 33 (1992).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_72_33_1992.pdf
+----------------
+84
+Title: 
+T. J. Sommerer, H. Pak and M. J. Kushner, 
+"Cathode Heating Mechanisms in Pseudospark (Back-Lighted Thyratron) 
+Plasma Switches",
+J. Appl. Phys. 72, 3374 (1992).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_72_3374_1992.pdf
+----------------
+85
+Title: 
+T. J. Sommerer and M. J. Kushner, 
+"A Monte Carlo-Fluid Model of
+Chlorine Atom Production in Cl2, HCl and CCl4 Radio Frequency Discharges
+for Plasma Etching", J. Vac. Sci. Tech. B 10, 2179 (1992).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvstb_10_2179_1992.pdf
+----------------
+86
+Title: 
+M. B. Chang, M. J. Kushner and M. J. Rood, "Removal of SO2 and
+Simultaneous Removal of SO2 and NO from Simulated Flue Gas Streams via
+Dielectric Barrier Discharge Plasmas", Plasma Chemistry and Plasma
+Processing 12, 565 (1992).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/pcpp_12_565_1992.pdf
+----------------
+87
+Title: 
+M. B. Chang, M. J. Kushner and M. J. Rood, 
+"Removal of SO2and
+NO from Gas Streams with Combined Plasma Photolysis
+", J. Environmental Engr. 119, 414 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jee_119_414_1993.pdf
+----------------
+88
+Title: 
+M. Hartig and M. J. Kushner, 
+"Radially Dependent Solutions of Boltzmann's Equation Using a 
+Modified 2-Term Spherical Harmonic Expansion",
+J. Appl. Phys. 73, 1080 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_73_1080_1993.pdf
+----------------
+89
+Title: 
+D. G. Storch and M. J. Kushner, 
+"Destruction Mechanisms for Formaldehyde
+in Atmospheric Pressure Low Temperature Plasmas", 
+J. Appl. Phys. 73, 51 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_73_51_1993.pdf
+----------------
+90
+Title: 
+J. W. Shon, M. J. Kushner, G. A. Hebner and G. N. Hays, 
+"Predictions for Gain in the Fission Fragment Excited Atomic Xenon 
+Laser", J. Appl. Phys. 73, 2686 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_73_2686_1993.pdf
+----------------
+91
+Title: 
+M. J. Hartig and M. J. Kushner, 
+"A Monte Carlo-Hydrodynamic Simulation
+of Neutral Radical Transport in Low Pressure Remote Plasma Activated Chemical
+Vapor Deposition", Appl. Phys. Lett. 62, 1594 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_62_1594_1993.pdf
+----------------
+92
+Title: 
+P. J. Hargis, M. J. Kushner and 27 other authors, 
+"The GEC RF Reference Cell: A Defined Parallel-Plate Radio-Frequency 
+System for Experimental and Theoretical Studies of Plasma-Processing 
+Discharges", 
+Reviews of Scientific Instruments 65, 140 (1994).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/rsi_65_140_1994.pdf
+----------------
+93
+Title: 
+M. J. Kushner, 
+"Pulsed Plasma-Pulsed Injection Sources for Remote Plasma Activated 
+Chemical Vapor Deposition", J. Appl. Phys. 73,
+4098 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_73_4098_1993.pdf
+----------------
+94
+Title: 
+S. J. Choi and M. J. Kushner, 
+"The Role of Negative Ions in the Formation of Particles in Low 
+Pressure Plasmas", J. Appl. Phys. 74,
+853 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_74_853_1993.pdf
+----------------
+95
+Title: 
+P. J. Stout and M. J. Kushner, 
+"A Monte Carlo Simulation of Surface
+Kinetics During Plasma Enhanced Chemical Vapor Deposition of SiO2 using
+O2/TEOS Chemistry", J. Vac. Sci. Tech. A 11, 2562 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_11_2562_1993.pdf
+----------------
+96
+Title: 
+S. J. Choi and M. J. Kushner, 
+"A Simulation of the Shielding of
+Dust Particles in Low Pressure Glow Discharges: Electron-Dust and Ion-Dust
+Particle Cross Sections", 
+Appl. Phys. Lett. 62, 2197 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_62_2197_1993.pdf
+----------------
+97
+Title: 
+J. W. Shon, R. L. Rhoades, J. T. Verdeyen and M. J. Kushner, 
+"Short Pulse Electron Beam Excitation of the High Pressure Atomic 
+Ne Laser", J. Appl. Phys. 73, 8059 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_73_8059_1993.pdf
+----------------
+98
+Title: 
+P. L. G. Ventzek, R. J. Hoekstra, T. J. Sommerer and M. J. Kushner,
+"A 2-dimensional Hybrid Model of Inductively Coupled Plasma Sources
+for Etching", Appl. Phys. Lett. 63, 605 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_63_605_1993.pdf
+----------------
+99
+Title: 
+D. Evans, L. A. Rosocha, G. K. Anderson, J. J. Coogan, and M. J. Kushner,
+"Plasma Remediation of Trichloroethylene in Silent Discharge 
+Plasmas", J. Appl. Phys. 74, 5378 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_74_5378_1993.pdf
+----------------
+100
+Title: 
+M. J. Kushner, 
+"Plasma Chemistry of He/SiH4/O2/N2O Mixtures for Remote Plasma Activated 
+Chemical Vapor Deposition of Silicon Dioxide", J. Appl. Phys. 
+74, 6538 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_74_6538_1993.pdf
+----------------
+101
+Title: 
+G. A. Hebner, J. W. Shon and M. J. Kushner, 
+"Temperature Dependent Gain in the Atomic Xe Laser", 
+Appl. Phys. Lett. 63, 2872 (1993).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_63_2872_1993.pdf
+----------------
+102
+Title: 
+H. H. Hwang and M. J. Kushner, 
+"Ion Energy Distributions in rf Discharges Sustained in Gas Mixtures 
+Obtained Using a Monte Carlo-Fluid Hybrid Model: Endothermic Processes and 
+Ion Holes", Plasma Sources Sci. Technol. 3, 190 (1994).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_3_190_1994.pdf
+----------------
+103
+Title: 
+S. J. Choi and M. J. Kushner, 
+"A Particle-in-Cell Simulation of
+Dust Charging and Shielding in Low Pressure Glow Discharges", IEEE
+Trans. Plasma Science 22, 138 (1994).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_22_138_1994.pdf
+----------------
+104
+Title: 
+J. W. Shon and M. J. Kushner, 
+"Excitation Mechanisms and Gain Modeling of the High Pressure Ar 
+Laser in He/Ar Mixtures", J. Appl. Phys. 75, 1883 (1994).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_75_1883_1994.pdf
+----------------
+105
+Title: 
+P. L. G. Ventzek, R. J. Hoekstra, M. J. Kushner, 
+"2-Dimensional
+Modeling of High Plasma Density Inductively Coupled Sources for Materials
+Processing", J. Vac. Sci. Tech. B. 12, 461 (1994).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvstb_12_461_1994.pdf
+----------------
+106
+Title: 
+S. J. Choi and M. J. Kushner, 
+"Mutual Shielding of Closely Spaced Dust Particles in Low Pressure 
+Plasmas", J. Appl. Phys. 75, 3351 (1994).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_75_3351_1994.pdf
+----------------
+107
+Title: 
+J. L. Shohet, E. B. Wickesberg, and M. J. Kushner, 
+"Computer Simulation
+of Mass-Selective Plasma-Source Ion Implantation", 
+J. Vac. Sci. Technol. A. 12, 1380 (1994).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_12_1380_1994.pdf
+----------------
+108
+Title: 
+S. J. Choi, P. L. G. Ventzek, R. J. Hoekstra and M. J. Kushner, 
+"Spatial Distributions of Dust Particles in Plasmas Generated by 
+Capacitively Coupled Radio Frequency Discharges", Plasma Sources 
+Sci. Technol. 3, 418 (1994).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_3_418_1994.pdf
+----------------
+109
+Title: 
+P. L. G. Ventzek, M. Grapperhaus and M. J. Kushner, 
+"Investigation
+of Electron Source and Ion Flux Uniformity in High Plasma Density Inductively
+Plasma Tools Using 2-dimensional Modeling", J. Vac. Science Tech.
+B 12, 3118 (1994).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvstb_12_3118_1994.pdf
+----------------
+110
+Title: 
+P. J. Stout and M. J. Kushner, 
+"Characteristics of an Optically Activated Pulsed Power GaAs(Si:Cu) 
+Switch Obtained by 2-dimensional Modeling",
+J. Appl. Phys. 77, 3518 (1995).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_77_3518_1995.pdf
+----------------
+111
+Title: 
+R. J. Hoekstra and M. J. Kushner, 
+"The Effect of Sub-wafer Dielectrics on Plasma Properties in Plasma 
+Etching Reactors", J. Appl. Phys. 77, 3668 (1995).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_77_3668_1995.pdf
+----------------
+112
+Title: 
+A. C. Gentile and M. J. Kushner, 
+"Plasma Remediation of Perchloroethylene (PCE) in Humid Gas 
+Streams", J. Appl. Phys. 78, 2977 (1995).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_78_2977_1995.pdf
+----------------
+113
+Title: 
+A. C. Gentile and M. J. Kushner,
+"Reaction Chemistry and Optimization
+of Plasma Remediation of NxOy from Gas Streams", J. Appl. Phys.
+78, 2074 (1995).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_78_2074_1995.pdf
+----------------
+114
+Title: 
+F. Y. Huang and M. J. Kushner, 
+"A Hybrid Model for Particle Transport
+and Electron Energy Distributions in Positive Column Discharges Using Equivalent
+Species Transport", J. Appl. Phys. 78, 5909 (1995).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_78_5909_1995.pdf
+----------------
+115
+Title: 
+H. H. Hwang, J. K. Olthoff, R. J. Van Brunt, S. B. Radovanov, and M.
+J. Kushner, 
+"Evidence for Inelastic Processes for N3+ and N4+from
+Ion Energy Distributions in He/N2 rf Glow Discharges", J. Appl. Phys.
+79, 93 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_79_93_1996.pdf
+----------------
+116
+Title: 
+M. J. Kushner and D. N. Ruzic, 
+"Guest Editorial: Speical Issue of Images in Plasma 
+Science", IEEE Trans. Plasma Sci. 24, 4 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_24_4_1996.pdf
+----------------
+117
+Title: 
+W. Z. Collison and M. J. Kushner,
+"Conceptual Design of Advanced Inductively Coupled Plasma Etching
+Tools Using Computer Modeling
+", Trans. Plasma Sci. 24, 135 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_24_135_1996.pdf
+----------------
+118
+Title: 
+P. J. Stout and M. J. Kushner, 
+"Modeling of High Power Semiconductor
+Switches Operated in the Non-linear Mode", J. Appl. Phys. 79,
+2084 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_79_2084_1996.pdf
+----------------
+119
+Title: 
+R. J. Hoekstra and M. J. Kushner, 
+"Predictions of Ion Energy 
+Distributions and Radical Fluxes in rf Biased Inductively Coupled Plasma 
+Etching Reactors", J. Appl. Phys. 79, 2275 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_79_2275_1996.pdf
+----------------
+120
+Title: 
+W. Z. Collison and M. J. Kushner, 
+"Ion Drag Effects in Inductively
+Coupled Plasmas for Etching", Appl. Phys. Lett. 68, 903 
+(1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_68_903_1996.pdf
+----------------
+121
+Title: 
+A. C. Gentile and M. J. Kushner, 
+"Microstreamer Dynamics During Plasma Remediation of NxOy in Dielectric 
+Barrier Discharges", J. Appl. Phys.
+79, 3877 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_79_3877_1996.pdf
+----------------
+122
+Title: 
+F. Y. Huang, H. H. Hwang and M. J. Kushner, 
+"A Model for Transport
+and Agglomeration of Particles in Reactive Ion Etching Plasma Reactors:"
+, J. Vac. Sci. Technol. A 14, 562 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_14_562_1996.pdf
+----------------
+123
+Title: 
+W. Tan, R. J. Hoekstra and M. J. Kushner, 
+"A Time Dependent Propagator Method for Long Mean Free Path Transport 
+of Neutral Particles in Plasma Processing Reactors", 
+J. Appl. Phys. 79, 3423 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_79_3423_1996.pdf
+----------------
+124
+Title: 
+A. C. Gentile and M. J. Kushner, 
+"The Effect of CO2 on the Plasma
+Remediation of NxOy", Appl. Phys. Lett. 68, 2064 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_68_2064_1996.pdf
+----------------
+125
+Title: 
+M. J. Kushner, W. Z. Collison and D. N. Ruzic, 
+"Electron-Beam
+Sustained Radio Frequency Discharges for Plasma Processing", J. Vac.
+Sci. Technol. A 14, 2094 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_14_2094_1996.pdf
+----------------
+126
+Title: 
+H. H. Hwang and M. J. Kushner, 
+"Regimes of Particle Trapping in
+Inductively Coupled Plasma Processing Reactors", Appl. Phys. Lett.
+68, 3716 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_68_3716_1996.pdf
+----------------
+127
+Title: 
+M. J. Kushner, W. Z. Collison, M. J. Grapperhaus, J. P. Holland and
+M. S. Barnes, 
+"A 3-dimensional Model for Inductively Coupled Plasma
+Etching Reactors: Azimuthal Symmetry and Coil Properties", J. Appl.
+Phys. 80, 1337 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_80_1337_1996.pdf
+----------------
+128
+Title: 
+I. Peres and M. J. Kushner, 
+"Spatial Distributions of Power and Ion Densities in rf Excited Remote 
+Plasma Reactors", Plasma Sources Sci. Technol. 
+5, 499 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_5_499_1996.pdf
+----------------
+129
+Title: 
+P. N. Barnes and M. J. Kushner, 
+"Formation of XeI(B) in Low Pressure Inductive Radio Frequency 
+Discharges Sustained in Mixtures of Xe and I2",
+J. Appl. Phys. 80, 5593 (1996).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_80_5593_1996.pdf
+----------------
+130
+Title: 
+M. J. Grapperhaus and M. J. Kushner, 
+"A Semi-Analytic Sheath Model
+Integrated into a 2-dimensional Model for Radio Frequency Biased, Inductively
+Coupled Plasma Etching Reactors", J. Appl. Phys.81, 569 
+(1997).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_81_569_1997.pdf
+----------------
+131
+Title: 
+R. J. Hoekstra, M. J. Grapperhaus and M. J. Kushner, 
+"An Integrated
+Plasma Equipment Model for Polysilicon Etch Profiles in an Inductively
+Coupled Plasma Reactor with Subwafer and Super wafer Topography",
+J. Vac. Sci. Technol. A. 15, 1913 (1997).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_15_1913_1997.pdf
+----------------
+132
+Title: 
+F. Y. Huang and M. J. Kushner, 
+"Shapes of Agglomerates in Plasma Etching Reactors", 
+J. Appl. Physics. 81, 5960 (1997).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_81_5960_1997.pdf
+----------------
+133
+Title: 
+S. Rauf and M. J. Kushner, 
+"A Model for Non-Collisional Heating
+in Inductively Coupled Plasma Processing Sources", J. Appl. Phys.
+81, 5966 (1997).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_81_5966_1997.pdf
+----------------
+134
+Title: 
+H. H. Hwang and M. J. Kushner, 
+"Simulation of the Formation of
+Coulomb Liquids and Solids in Dusty Plasmas", 
+J. Appl. Phys. 82, 2106 (1997).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_82_2106_1997.pdf
+----------------
+135
+Title: 
+P. N. Barnes and M. J. Kushner, 
+"Ion-ion Neutralization of Iodine
+in rf Inductive Discharges of Xe and I2 Mixtures", J. Appl. Phys.
+82, 2150 (1997).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_82_2150_1997.pdf
+----------------
+136
+Title: 
+S. Rauf and M. J. Kushner, 
+"A Self Consistent Analytical Model
+for Non-Collisional Heating in Low Pressure Plasmas", 
+Plasma Sources Sci. Technol. 6, 518 (1997).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_6_518_1997.pdf
+----------------
+137
+Title: 
+S. Rauf and M. J. Kushner, 
+"Argon Metastable Densities in Radio
+Frequency Ar, Ar/O2 and Ar/CF4 Electrical Discharges", 
+J. Appl. Phys. 82, 2805 (1997).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_82_2805_1997.pdf
+----------------
+138
+Title: 
+M. J. Kushner, 
+"Consequences of Asymmetric Pumping in Low Pressure
+Plasma Processing Reactors: A 3-dimensional Modeling Study", J. Appl.
+Phys. 82, 5312 (1997).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_82_5312_1997.pdf
+----------------
+139
+Title: 
+M. J. Grapperhaus, Z. Krivokapic and M. J. Kushner, 
+"Design Issues
+in Ionized Metal Physical Vapor Deposition of Copper", J. Appl. Phys.
+83, 35 (1998).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_83_35_1998.pdf
+----------------
+140
+Title: 
+S. Rauf and M. J. Kushner, 
+"Virtual Plasma Equipment Model: A Tool for Investigating Feedback 
+Control in Plasma Processing Equipment",
+IEEE Trans. Semiconductor Manufact. 11, 486 (1998).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tsm_11_486_1998.pdf
+----------------
+141
+Title: 
+S. Rauf and M. J. Kushner, 
+"The Effect of Radio Frequency Plasma 
+Processing Reactor Circuitry on Plasma Characteristics",
+J. Appl. Phys. 83, 5087 (1998).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_83_5087_1998.pdf
+----------------
+142
+Title: 
+E. R. Keiter and M. J. Kushner, 
+"Plasma Transport Around Dust
+Particles Having Complex Shapes", J. Appl. Phys. 83, 5670 
+(1998).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_83_5670_1998.pdf
+----------------
+143
+Title: 
+H. H. Hwang, E. R. Keiter and Mark J. Kushner, 
+"Consequences of
+3-dimensional Physical and Electromagnetic Structures on Dust Particle 
+Trapping in High Plasma Density Material Processing
+Discharges",J. Vac. Sci. Technol. A.16, 2454 (1998).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_16_2454_1998.pdf
+----------------
+144
+Title: 
+R. J. Hoekstra and M. J. Kushner, 
+"Microtrenching Resulting from
+Specular Reflection During Chlorine Etching of Silicon",
+in J. Vac. Sci. Technol. B, 16, 2102 (1998).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvstb_16_2102_1998.pdf
+----------------
+145
+Title: 
+R. J. Hoekstra and M. J. Kushner, 
+"Comparison of 2-d and 3-d Models
+for Profile Simulation of poly-Si Etching: When is a 3-d Model 
+Required?",J. Vac. Sci. Techol. A, 16, 3274 (1998).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_16_3274_1998.pdf
+----------------
+146
+Title: 
+X. Xu and M. J. Kushner, 
+"Ion Composition of Expanding Microdischarges
+in Dielectric Barrier Discharges", J. Appl. Phys. 83, 7522 
+(1998).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_83_7522_1998.pdf
+----------------
+147
+Title: 
+X. Xu and M. J. Kushner, 
+"Multiple Microdischarge Dynamics 
+Dielectric Barrier Discharges", J. Appl. Phys. 84, 4153 
+(1998).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_84_4153_1998.pdf
+----------------
+148
+Title: 
+P. N. Barnes and M. J. Kushner, 
+"Reactions in the Afterglow of Time
+Modulated Inductive Discharges of Xe and I2 Mixtures", 
+J. Appl. Phys. 84, 4727 (1998).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_84_4727_1998.pdf
+----------------
+149
+Title: 
+S. Rauf and M. J. Kushner, 
+"Diagnostic Technique for Measuring
+Plasma Parameters Near Surfaces in Radio Frequency Discharges", 
+Appl. Phys. Lett. 73, 2730 (1998).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_73_2730_1998.pdf
+----------------
+150
+Title: 
+S. Rauf and M. J. Kushner, 
+"Dynamics of a Coplanar-Electrode Plasma Display Panel Cell. I. Basic
+Operation", 
+J. Appl. Phys. 85, 3460 (1999).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_85_3460_1999.pdf
+----------------
+151
+Title: 
+S. Rauf and M. J. Kushner, 
+"Dynamics of a Coplanar-Electrode Plasma Display Panel Cell. II. 
+Cell Optimization", 
+J. Appl. Phys. 85, 3470 (1999).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_85_3470_1999.pdf
+----------------
+152
+Title: 
+S. Rauf and M. J. Kushner, 
+"Controller Design Issues in the Feedback Control of Radio Frequency
+Plasma Processing Reactors", 
+J. Vac. Sci. Technol. A 17, 704 (1999).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_17_704_1999.pdf
+----------------
+153
+Title: 
+S. Rauf and M. J. Kushner,
+"Operation of a Coplanar-Electrode Plasma Display Panel Cell",
+IEEE Trans. Plasma Sci. 27, 10 (1999).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_27_10_1999.pdf
+----------------
+154
+Title: 
+E. Keiter and M. J. Kushner,
+"Radical and Electron Densities in a High Plasma Density-Chemical Vapor
+Deposition Reactor from a Three-Dimensional Simulation",
+IEEE Trans. Plasma Sci. 27, 62 (1999).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_27_62_1999.pdf
+----------------
+155
+Title: 
+R. L. Kinder and M. J. Kushner,
+"TE01 Excitation of an Electron Cyclotron Resonance Plasma 
+Source",IEEE Trans. Plasma Sci. 27, 64 (1999).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_27_64_1999.pdf
+----------------
+156
+Title: 
+X. Xu and M. J. Kushner,
+"The Consequences of Remnant Surface Charges on Microdischarges 
+Spreading in Dielectric Barrier Discharges",
+IEEE Trans. Plasma Sci. 27, 108 (1999).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_27_108_1999.pdf
+----------------
+157
+Title: 
+M. J. Kushner and S. Rauf, 
+"Guest Editorial: Second Triennual Special Issue of Images in Plasma 
+Science", IEEE Trans. Plasma Sci. 27, 4 (1999).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_27_4_1999.pdf
+----------------
+158
+Title: 
+R. L. Kinder and M. J. Kushner, 
+"Consequences of Mode Structure on Plasma Properties in Electron 
+Cyclotron Resonance Sources", J. Vac. Sci. 
+Technol. A 17, 2421 (1999).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_17_2421_1999.pdf
+----------------
+159
+Title: 
+S. Rauf and M. J. Kushner, 
+"Nonlinear Dynamics of Radio Frequency Plasma Processing Reactors
+Powered by Multifrequency Sources", Trans. Plasma Sci.
+27, 1329 (1999).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_27_1329_1999.pdf
+----------------
+160
+Title: 
+R. Dorai and M. J. Kushner, 
+"Effect of Propene on the Remediation of NOx from Engine 
+Exhausts", in "Non-Thermal Plasma for Exhaust Emission Control:
+NOx, HC, and Particulates [SP-1483]", (Society of Automotive Engineeers, 
+PA, 1999).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/sae_99fl_472_1999.pdf
+----------------
+161
+Title: 
+X. Xu, S. Rauf and M. J. Kushner, 
+"Plasma Abatement of Perfluorocompounds in Inductively Coupled
+Plasma Reactors", J. Vac. Sci. Techol. A, 18, 213 (2000).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_18_213_2000.pdf
+----------------
+162
+Title: 
+D. Zhang and M. J. Kushner, 
+"Surface Kinetics and Plasma Equipment Model for Si Etching
+by Fluorocarbon Plasmas", J. Appl. Phys. 87, 1060 (2000).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_87_1060_2000.pdf
+----------------
+163
+Title: 
+T. van der Straaten  and M. J. Kushner, 
+"A Monte-Carlo Model of Xenon Resonance Radiation Transport in a Plasma
+Display Panel Cell: Transition from Optically Thick to Thin regimes", 
+J. Appl. Phys. 87, 2700 (2000).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_87_2700_2000.pdf
+----------------
+164
+Title: 
+J. Lu and M. J. Kushner, 
+"Effect of Sputter Heating in Ionized Metal Physical Vapor
+Deposition Reactors", 
+J. Appl. Phys. 87, 7198 (2000).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_87_7198_2000.pdf
+----------------
+165
+Title: 
+M. J. Kushner and D. Zhang, 
+"An Electron Impact Cross Section Set for CHF3", 
+J. Appl. Phys. 88, 3231 (2000).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_88_3231_2000.pdf
+----------------
+166
+Title: 
+R. Dorai and M. J. Kushner, 
+"Consequences of Propene and Propane on Plasma Remediation of 
+NOx", 
+J. Appl. Phys. 88, 3739 (2000).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_88_3739_2000.pdf
+----------------
+167
+Title: 
+R. Dorai, K. Hassouni and M. J. Kushner, 
+"Interaction Between Soot Particles and NOx During Dielectric Barrier
+Discharge Plasma Remediation of Simulated Diesel Exhaust", 
+J. Appl. Phys. 88, 6060 (2000).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_88_6060_2000.pdf
+----------------
+168
+Title: 
+D. Zhang and M. J. Kushner, 
+"Mechanisms for CF2 Radical Generation and Loss on Surfaces in 
+Fluorocarbon Plasmas", 
+J. Vac. Sci. Technol. A 18, 2661 (2000).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_18_2661_2000.pdf
+----------------
+169
+Title: 
+J. Lu and M. J. Kushner, 
+"Inflight Electron Impact Excitation in Ionized Metal Physical Vapor 
+Deposition", 
+J. Appl. Phys. 89, 878 (2001).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_89_878_2001.pdf
+----------------
+170
+Title: 
+R. Kinder and M. J. Kushner, 
+"Wave Propagation and Power Deposition in Magnetically Enhanced 
+Inductively Coupled and Helicon Plasma Sources", 
+J. Vac. Sci. Technol. A 19, 76 (2001).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_19_76_2001.pdf
+----------------
+171
+Title: 
+R. Dorai and M. J. Kushner, 
+"Effect of Multiple Pulses on the Plasma
+Chemistry During the Remediation of NOx Using Dielectric Barrier 
+Discharges", 
+J. Phys. D 34, 574 (2001).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_34_574_2001.pdf
+----------------
+172
+Title: 
+D. Zhang and M. J. Kushner, 
+"Investigation of Surface Reactions During C2F6 Plasma Etching
+of SiO2 with Equipment and Feature Scale Models", 
+J. Vac. Sci. Technol. A 19, 524 (2001).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_19_524_2001.pdf
+----------------
+173
+Title: 
+M. J. Kushner, 
+"Core Values and the New Business Model", 
+ASEE Prism 10, 65 (2001).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/prism_10_65_2001.pdf
+----------------
+174
+Title: 
+J. Lu and M. J. Kushner, 
+"Sources of Azimuthal Asymmetries in Ionized Metal Physical Vapor
+Deposition Processes", 
+Plasma Sources Sci. Technol. 10, 502 (2001).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_10_502_2001.pdf
+----------------
+175
+Title: 
+J. Lu and M. J. Kushner, 
+"Trench Filling by Ionized Metal Physical Vapor Deposition", 
+J. Vac. Sci. Technol. A 19, 2652 (2001).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_19_2652_2001.pdf
+----------------
+176
+Title: 
+P. Subramonium and M. J. Kushner, 
+"Pulsed Inductively Coupled Chlorine Plasmas in the Presence of a 
+Substrate Bias", 
+Appl. Phys. Lett. 79, 2145 (2001).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_79_2145_2001.pdf
+----------------
+177
+Title: 
+R. Kinder and M. J. Kushner, 
+"Non-Collisional Heating and Electron Energy Distributions in 
+Magnetically Enhanced Inductively Coupled and Helicon Plasma Sources", 
+J. Appl. Phys. 90, 3699 (2001).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_90_3699_2001.pdf
+----------------
+178
+Title: 
+P. Subramonium and M. J. Kushner, 
+"Two-dimensional Modeling of Long-term Transients in Inductively Coupled
+Plasmas using Moderate Computational Parallelism. I. Ar Pulsed
+Plasmas", 
+J. Vac. Sci. Technol. A 20, 313 (2002).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_20_313_2002.pdf
+----------------
+179
+Title: 
+P. Subramonium and M. J. Kushner, 
+"Two-dimensional Modeling of Long-term Transients in Inductively Coupled
+Plasmas using Moderate Computational Parallelism. II. ArCl2 Pulsed 
+Plasmas", 
+J. Vac. Sci. Technol. A 20, 325 (2002).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_20_325_2002.pdf
+----------------
+180
+Title: 
+V. Vyas and M. J. Kushner, 
+"Formation of Coulomb Crystals in a Capacitively Coupled Plasma", 
+Trans. Plasma Science 30, 92 (2002).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_30_92_2002.pdf
+----------------
+181
+Title: 
+R. Kinder and M. J. Kushner, 
+"Three-Dimensional Fields and Temperatures in a Squat Helicon Reactor", 
+Trans. Plasma Science 30, 134 (2002).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_30_134_2002.pdf
+----------------
+182
+Title: 
+B. Lay, S. Rauf and M. J. Kushner, 
+"Gap Closure in a Cold Metal Halid Lamp", 
+Trans. Plasma Science 30, 190 (2002).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_30_190_2002.pdf
+----------------
+183
+Title: 
+M. J. Kushner, 
+"Guest Editorial: Special Issue of the IEEE Transactions on
+Plasma Science: 3rd Triennial Issue on Images in Plasma Science", 
+Trans. Plasma Science 30, 5 (2002).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_30_5_2002.pdf
+----------------
+184
+Title: 
+A. Sankaran and M. J. Kushner, 
+"Harmonic Content of Electron Impact Source Functions in Inductively
+Coupled Plasmas Using an "On-the-Fly" Monte Carlo Technique", 
+J. Appl. Phys. 92, 736 (2002).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_92_736_2002.pdf
+----------------
+185
+Title: 
+T. J. Pricer, M. J. Kushner and R. C. Alkire, 
+"Monte Carlo Simulation of the Electrodeposition of Copper I. 
+Additive-Free Acidic Sulfate Solution
+", 
+J. Electrochem. Soc. 149, c396 (2002).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/ecs_149_c396_2002.pdf
+----------------
+186
+Title: 
+T. J. Pricer, M. J. Kushner and R. C. Alkire, 
+"Monte Carlo Simulation of the Electrodeposition of Copper II. 
+Acid Sulfate Solution with Blocking Additive
+", 
+J. Electrochem. Soc. 149, c406 (2002).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/ecs_149_c406_2002.pdf
+----------------
+187
+Title: 
+V. Vyas, G. A. Hebner and M. J. Kushner, 
+"A Self-consistent Three-dimensional Model of Dust Particle Transport and 
+Formation of Coulomb Crystals in Plasma Processing Reactors
+", J. Appl. Phys. 92, 6451 (2002).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_92_6451_2002.pdf
+----------------
+188
+Title: 
+R. Dorai and M. J. Kushner, 
+"Repetitively Pulsed Plasma Remediation of NOx in Soot Laden Exhaust 
+", J. Phys. D 35, 2954 (2002).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_35_2954_2002.pdf
+----------------
+189
+Title: 
+Alex V. Vasenkov and Mark J. Kushner, 
+"Electron Energy Distributions and Anomalous Skin Depth Effects in 
+High-Plasma-Density Inductively Coupled Discharges
+", Phys. Rev. E 66, 066411 (2002).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/pre_66_066411_2002.pdf
+----------------
+190
+Title: 
+Brian Lay, Richard S Moss, Shahid Rauf and Mark J. Kushner, 
+"Breakdown Processes in Metal Halide Lamps
+", Plasma Sources Science Technology 12, 8 (2003).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_12_8_2003.pdf
+----------------
+191
+Title: 
+Rajesh Dorai and Mark J. Kushner, 
+"A Model for Plasma Modification of Polypropylene Using Atmospheric Pressure 
+Discharges", J. Phys. D 36, 666 (2003).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_36_666_2003.pdf
+----------------
+192
+Title: 
+Arvind Sankaran and Mark J. Kushner, 
+"Fluorocarbon Plasma Etching and Profile Evolution of Porous
+Low-dielectric-constant Silica", Appl. Phys. Lett. 82, 1824 (2003).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_82_1824_2003.pdf
+----------------
+193
+Title: 
+M. Strobel, V. Jones, C. S. Lyons, M. Ulsh, M. J. Kushner, R. Dorai, 
+and M. C. Branch, 
+"A Comparison of Corona-treated and Flame-treated Polypropylene Films
+", Plasmas and Polymers 8, 61 (2003).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/pap_8_61_2003.pdf
+----------------
+194
+Title: 
+J. Hoard, T. J. Wallington, R. L. Bretz, A. Malkin, R. Dorai, 
+and M. J. Kushner, 
+"Importance of O(3P) Atoms and OH Radicals in Hydrocarbon 
+Oxidation during the Non-thermal Plasma Treatment of Diesel Exhaust Inferred 
+using Relative Rate Methods", Int. J. Chem. Kinetics 35, 231 (2003).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/ijck_35_231_2003.pdf
+----------------
+195
+Title: 
+R. Dorai and M. J. Kushner, 
+"Consequences of unburned hydrocarbons on microstreamer dynamics and chemistry 
+during plasma remediation of NOx using dielectric barrier discharges", J. Phys. D 36, 1075 (2003).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_36_1075_2003.pdf
+----------------
+196
+Title: 
+M. J. Kushner, 
+"Modeling of Magnetically Enhanced Capacitively Coupled Plasma Sources:
+Ar Discharges", J. Appl. Phys. 94, 1436 (2003).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_94_1436_2003.pdf
+----------------
+197
+Title: 
+A. V. Vasenkov and M. J. Kushner, 
+"Harmonic Content and Time Variation of Electron Energy Distributions
+in High-plasma-density, Low-pressure Inductively Coupled Discharges", J. Appl. Phys. 94, 2223 (2003).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_94_2223_2003.pdf
+----------------
+198
+Title: 
+R. L. Kinder, A. R. Ellingboe and M. J. Kushner, 
+"H- to W-mode Transitions and Properties of a Multimode Helicon Plasma Reactor", Plasma Sources Sci. Technol. 12, 561 (2003).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_12_561_2003.pdf
+----------------
+199
+Title: 
+D. B. Graves and M. J. Kushner, 
+"Influence of Modeling and Simulation on the Maturation of Plasma
+Technology: Feature Evolution and Reactor Design", J. Vac. Sci. Technol. A 21, s152 (2003).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_21_s152_2003.pdf
+----------------
+200
+Title: 
+A. V. Vasenkov and M. J. Kushner, 
+"Angular Anisotropy of Electron Energy Distributions in Inductively
+Coupled Plasmas", J. Appl. Phys. 94, 5522 (2003).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_94_5522_2003.pdf
+----------------
+201
+Title: 
+A. V. Vasenkov and M. J. Kushner, 
+"Modeling of Magnetically Enhanced Capacitively Coupled Plasma Sources:
+Ar / C4F8 / O2 discharges", J. Appl. Phys. 95, 834 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_95_834_2004.pdf
+----------------
+202
+Title: 
+M. J. Kushner, 
+"Modeling of Microdischarge Devices: Pyramidal Structures", J. Appl. Phys. 95, 846 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_95_846_2004.pdf
+----------------
+203
+Title: 
+X. Li, L. Ling, X. Hua, G. S. Oehrlein, Y. Wang, A. V. Vasenkov 
+and M. J. Kushner, 
+"Properties of C4F8 inductively coupled plasmas. I. Studies of Ar/c-C4F8
+magnetically confined plasmas for etching of SiO2", J. Vac. Sci. Technol. A 22, 500 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_22_500_2004.pdf
+----------------
+204
+Title: 
+A. V. Vasenkov, X. Li, G. S. Oehrlein and M. J. Kushner, 
+"Properties of C4F8 inductively coupled plasmas. II. Plasma chemistry
+and reaction mechanism for modeling of Ar/c-C4F8/O2 discharges", J. Vac. Sci. Technol. A 22, 511 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_22_511_2004.pdf
+----------------
+205
+Title: 
+P. Subramonium and M. J. Kushner, 
+"Extraction of negative ions from pulsed electronegative inductively
+coupled plasmas having a radio-frequency substrate bias", J. Vac. Sci. Technol. A 22, 534 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_22_534_2004.pdf
+----------------
+206
+Title: 
+K. Rajaraman and M. J. Kushner, 
+"A Monte Carlo Simulation of Radiation Trapping in Electrodeless Gas 
+Discharge Lamps", J. Phys. D 37, 1780 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_37_1780_2004.pdf
+----------------
+207
+Title: 
+P. Subramoniuim and M. J. Kushner, 
+"Pulsed Inductively Coupled Plasmas as a Method to Recoup Uniformity:
+Three-dimensional Modeling Study", Appl. Phys. Lett. 85, 721 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_85_721_2004.pdf
+----------------
+208
+Title: 
+P. Subramoniuim and M. J. Kushner, 
+"Pulsed Plasmas as a Method to Improve Uniformity During Materials Processing", J. Appl. Phys. 96, 82 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_96_82_2004.pdf
+----------------
+209
+Title: 
+A. Sankaran and M. J. Kushner, 
+"Integrated Feature Scale Modeling of Plasma Processing of Porous and
+Solid SiO2. I. Fluorocarbon Etching", J. Vac. Sci. Technol. A 22, 1242 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_22_1242_2004.pdf
+----------------
+210
+Title: 
+A. Sankaran and M. J. Kushner, 
+"Integrated Feature Scale Modeling of Plasma Processing of Porous and
+Solid SiO2. II. Residual Fluorocarbon Polymer Stripping and Barrier Layer Deposition", J. Vac. Sci. Technol. A 22, 1260 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_22_1260_2004.pdf
+----------------
+211
+Title: 
+D. L. Carroll, J. T. Verdeyen, D. M. King, J. W. Zimmerman, 
+J. K. Laystrom, B. S. Woodard, N. Richardson, K. Kittell, 
+Mark J. Kushner, and W. C. Solomon, 
+"Measurement of Positive Gain on the 1315 nm Transition of Atomic Iodine 
+Pumped by O2(a1Δ) Produced in an Electric Discharge", Appl. Phys. Lett. 85, 1320 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_85_1320_2004.pdf
+----------------
+212
+Title: 
+R. S. Moss, J. G. Eden and M. J. Kushner
+"Avalanche Processes in an Idealized Lamp: I. Measurements of Formative 
+Breakdown Time", J. Phys. D. 37, 2502 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_37_2502_2004.pdf
+----------------
+213
+Title: 
+A. Bhoj and M. J. Kushner
+"Avalanche Process in an Idealized Lamp: II. Modeling of Breakdown in
+Ar/Xe Electric Discharges", J. Phys. D. 37, 2510 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_37_2510_2004.pdf
+----------------
+214
+Title: 
+D. S. Stafford and M. J. Kushner
+"O2(1Δ) Production in He/O2 Mixtures in Flowing Low Pressure Plasmas", J. Appl. Phys. 96, 2451 (2004).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_96_2451_2004.pdf
+----------------
+215
+Title: 
+A. Sankaran and M. J. Kushner
+"Etching of Porous and Solid SiO2 in Ar/c-C4F8, O2/c-C4F8 and
+Ar/O2/c-C4F8 Plasmas", J. Appl. Phys. 97, 023307 (2005).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_97_023307_2005.pdf
+----------------
+216
+Title: 
+V. Vyas and M. J. Kushner
+"Effect of Ion Streaming on Particle-particle Interactions in a Dusty Plasma", J. Appl. Phys. 97, 043303 (2005).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_97_043303_2005.pdf
+----------------
+217
+Title: 
+D. L. Carroll, J. T. Verdeyen, D. M. King, J. W. Zimmerman, J. K. Laystrom,
+B. S. Woodard, G. F. Benavides, K. Kittell, D. S. Stafford, M. J. Kushner and 
+W. C. Solomon
+"Continuous-wave Laser Oscillation on the 1315 nm Transition of Atomic
+Iodine Pumped by O2(a1Δ) Produced in an Electric Discharge", Appl. Phys. Lett. 86, 111104 (2005).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/aphl_86_111104_2005.pdf
+----------------
+218
+Title: 
+M. J. Kushner and G. A. Hebner
+"Guest Editorial: Fourth Triennial Special Issue of Images in Plasma 
+Science", IEEE Trans. Plasma Sci. 33, 224 (2005).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_33_224_2005.pdf
+----------------
+219
+Title: 
+A. N. Bhoj and M. J. Kushner, 
+"Plasma Polymer Interactions in a Dielectric Barrier Discharge", Trans. Plasma Sci. 33, 250 (2005).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_33_250_2005.pdf
+----------------
+220
+Title: 
+A. Agarwal and M. J. Kushner, 
+"Time Evolution of Ion Energy Distributions for Plasma Doping", Trans. Plasma Sci. 33, 252 (2005).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_33_252_2005.pdf
+----------------
+221
+Title: 
+M. J. Kushner and A. V. Vasenkov,
+"Electron Velocity Distributions in an Inductively Coupled Plasma", Trans. Plasma Sci. 33, 388 (2005).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_33_388_2005.pdf
+----------------
+222
+Title: 
+A. N. Bhoj and M. J. Kushner, 
+"Plasma Dynamics During Breakdown in an HID Lamp", Trans. Plasma Sci. 33, 518 (2005).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_33_518_2005.pdf
+----------------
+223
+Title: 
+M. J. Kushner, 
+"Modelling of Microdischarge Devices: Plasma and Gas Dynamics", J. Phys. D 38, 1633 (2005).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_38_1633_2005.pdf
+----------------
+224
+Title: 
+A. Agarwal and M. J. Kushner, 
+"Effect of Nonsinusoidal Bias Waveforms on Ion Energy Distributions
+and Fluorocarbon Plasma Etch Selectivity", J. Vac. Sci. Technol. A 23, 1440 (2005).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_23_1440_2005.pdf
+----------------
+225
+Title: 
+D. Shane Stafford and M. J. Kushner
+"O2(1Δ) Production in Flowing He/O2 Plasmas I: 
+Axial Transport and Pulsed Power Formats", J. Appl. Phys. 98, 073303 (2005).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_98_073303_2005.pdf
+----------------
+226
+Title: 
+R. Arakoni, D. Shane Stafford, N. Y. Babaeva and M. J. Kushner
+"O2(1Δ) Production in Flowing He/O2 Plasmas II: 
+Two-dimensional Modeling", J. Appl. Phys. 98, 073304 (2005).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_98_073304_2005.pdf
+----------------
+227
+Title: 
+A. N. Bhoj and M. J. Kushner
+"Multi-scale Simulation of Functionalization of Rough Polymer Surfaces
+Using Atmospheric Pressure Plasmas", J. Phys. D 39, 1594 (2006).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_39_1594_2006.pdf
+----------------
+228
+Title: 
+Natalia Yu. Babaeva. R. A. Arakoni and M. J. Kushner
+"Production of O2(1Δ) in Flowing Plasmas Using Spiker-Sustainer Excitation", J. Appl. Phys. 99, 113306 (2006).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_99_113306_2006.pdf
+----------------
+229
+Title: 
+Natalia Yu. Babaeva. A. N. Bhoj and M. J. Kushner
+"Streamer Dynamics in Gases Containing Dust Particles", Plasma Source Sci. Technol. 15, 591 (2006).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_15_591_2006.pdf
+----------------
+230
+Title: 
+V. Vyas and M. J. Kushner
+"Scaling of Hollow Cathode Magnetrons for Ionized Metal Physical
+Vapor Deposition", J. Vac. Sci. Technol. A 24, 1955 (2006).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_24_1955_2006.pdf
+----------------
+231
+Title: 
+A. Agarwal and M. J. Kushner
+"Characteristics of Pulsed Plasma Doping Sources for 
+Ultrashallow Junction Formation", J. Appl. Phys. 101, 063305 (2007).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_101_063305_2007.pdf
+----------------
+232
+Title: 
+R. A. Arakoni, A. N. Bhoj and M. J. Kushner
+"H2 Generation in Ar/NH3 Microdischarges", J. Phys. D. 40, 2476 (2007).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_40_2476_2007.pdf
+----------------
+233
+Title: 
+N. Y. Babaeva and M. J. Kushner
+"Penetration of Plasma into the Wafer-Focus Ring Gap
+in Capacitively Coupled Plasmas", J. Appl. Phys. 101, 113307 (2007).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_101_113307_2007.pdf
+----------------
+234
+Title: 
+N. Y. Babaeva, R. A. Arakoni and M. J. Kushner
+"O2(1Δ) Production in High Pressure flowing He/O2 Plasmas:
+Scaling and Quenching", J. Appl. Phys. 101, 123306 (2007).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_101_123306_2007.pdf
+----------------
+235
+Title: 
+R. A. Arakoni, N. Y. Babaeva and M. J. Kushner
+"O2(1Δ) Production and Gain in Plasma
+Pumped Oxygen-Iodine Lasers: Consequences of NO and NO2 Additives", J. Phys. D 40, 4793 (2007).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_40_4793_2007.pdf
+----------------
+236
+Title: 
+Y. Yang and M. J. Kushner
+"Modeling of Magnetically Enhanced Capacitively Coupled Plasma Sources:
+Two Frequency Discharges", J. Vac. Sci. Technol. A 25, 1420 (2007).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_25_1420_2007.pdf
+----------------
+237
+Title: 
+A. N. Bhoj and M. J. Kushner
+"Continuous Processing of Polymers in Repetitively Pulsed Atmospheric 
+Pressure Discharges with Moving Surfaces and Gas Flow", J. Phys. D 40, 6953 (2007).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_40_6953_2007.pdf
+----------------
+238
+Title: 
+N. Y. Babaeva and M. J. Kushner
+"Ion Energy and Angular Distributions into the Wafer - Focus Ring Gap in 
+Capacitively Coupled Discharges", J. Phys. D 41, 062004 (2008).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_41_062004_2008.pdf
+----------------
+239
+Title: 
+A. Agarwal and M. J. Kushner
+"Seasoning of Plasma Etching Reactors: Ion energy Distributions to Walls
+and Real-time and Run-to-run Control Strategies", J. Vac. Sci. Technol. A 26, 498 (2008).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_26_498_2008.pdf
+----------------
+240
+Title: 
+R. Arakoni, J. J. Ewing and M. J. Kushner
+"Microdischarges for Use as
+Microthrusters: Modelling and Scaling", J. Phys. D 41, 105208 (2008).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_41_105208_2008.pdf
+----------------
+241
+Title: 
+A. N. Bhoj and M. J. Kushner
+"Repetitively Pulsed Atmospheric Pressure Discharge Treatment of 
+Rough Polymer Surfaces: I. Humid air discharges", Plasma Sources Sci. Technol. 17, 035024 (2008).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_17_035024_2008.pdf
+----------------
+242
+Title: 
+A. N. Bhoj and M. J. Kushner
+"Repetitively Pulsed Atmospheric Pressure Discharge Treatment of 
+Rough Polymer Surfaces: II. Treatment of micro-beads in He/NH3/H2O and 
+He/O2/H2O mixtures", Plasma Sources Sci. Technol. 17, 035025 (2008).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_17_035025_2008.pdf
+----------------
+243
+Title: 
+N. Yu. Babaeva and M. J. Kushner, 
+"Guest Editorial: 5th Triennial Special Issue of Transactions on Plasma
+Science on Images in Plasma Science", Trans. Plasma Sci. 36, 862 (2008).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_36_862_2008.pdf
+----------------
+244
+Title: 
+N. Yu. Babaeva and M. J. Kushner, 
+"Streamer Branching: The Role of Inhomogeneities and Bubbles", Trans. Plasma Sci. 36, 892 (2008).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_36_892_2008.pdf
+----------------
+245
+Title: 
+A. Agarwal and M. J. Kushner, 
+"Plasma Atomic Layer Etching Using Conventional Plasma Equipment", J. Vac. Sci. Technol. A 27, 37 (2009).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_27_37_2009.pdf
+----------------
+246
+Title: 
+N. Yu. Babaeva and M. J. Kushner, 
+"Effect of inhomogeneities on streamer propagation: 
+I. Intersection with isolated bubbles and particles", Plasma Sources Sci. Technol 18, 035010 (2009).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_18_035009_2009.pdf
+----------------
+247
+Title: 
+N. Yu. Babaeva and M. J. Kushner, 
+"Effect of inhomogeneities on streamer propagation: 
+II. Streamer dynamics in high pressure humid air with bubbles", Plasma Sources Sci. Technol 18, 035009 (2009).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_18_035010_2009.pdf
+----------------
+248
+Title: 
+N. Yu. Babaeva and M. J. Kushner, 
+"Structure of positive streamers inside
+gaseous bubbles immersed in liquids", J. Phys. D 42, 132003 (2009).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_42_132003_2009.pdf
+----------------
+249
+Title: 
+J. Shoeb and M. J. Kushner, 
+"Mechanisms for Plasma Etching of HfO2 Gate Stacks with 
+Si Selectivity and Photoresist Trimming", J. Vac. Sci. Technol. A 47, 1289 (2009).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jvsta_27_1289_2009.pdf
+----------------
+250
+Title: 
+M. J. Kushner, 
+"Hybrid Modelling of Low Temperature Plasmas for Fundamental Investigations 
+and Equipment Design", J. Phys. D 42, 194013 (2009).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_42_194013_2009.pdf
+----------------
+251
+Title: 
+M. Wang and M. J. Kushner, 
+"High energy electron fluxes in dc-augmented capacitively coupled plasmas: I. Fundamental characteristics", J. Appl. Phys 107, 023308 (2010).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_107_023308_2010.pdf
+----------------
+252
+Title: 
+M. Wang and M. J. Kushner, 
+"High energy electron fluxes in dc-augmented capacitively coupled plasmas: II. Effects on twisting in high aspect ratio etching of dielectrics", J. Appl. Phys 107, 023309 (2010).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_107_023309_2010.pdf
+----------------
+253
+Title: 
+S. Kirk, M. Strobel, C-Y. Lee, S. J. Pachuta, M. Prokosch, H. Lechuga, M. E. Jones, Ch. S. Lyons, S. Degner,
+Y. Yang and M. J. Kushner
+"Fluorine Plasma Treatments of Polypropylene Films:  I.  Surface Characterization", Plasma Proc. Polymers 7, 107 (2010).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/ppp_7_107_2010.pdf
+----------------
+254
+Title: 
+Y. Yang, M. Strobel, S. Kirk and M. J. Kushner
+"Fluorine Plasma Treatments of Polypropylene Films:  II.  Modeling Reaction Mechanisms and Scaling", Plasma Proc. Polymers 7, 123 (2010).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/ppp_7_123_2010.pdf
+----------------
+255
+Title: 
+Y. Yang and M. J. Kushner
+"Graded Conductivity Electrodes as a Means to Improve Plasma Uniformity in
+Dual Frequency Capacitively Coupled Plasma Sources", J. Phys. D 43, 152001 (2010).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_43_152001_2010.pdf
+----------------
+256
+Title: 
+N. Yu. Babaeva and M. J. Kushner
+"Intracellular Electric Fields Produced by Dielectric Barrier Discharge Treatment of Skin", J. Phys. D 43, 185206 (2010).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_43_185206_2010.pdf
+----------------
+257
+Title: 
+Y. Yang and M. J. Kushner
+
+"Modeling of dual frequency capacitively coupled plasma sources utilizing a
+full-wave Maxwell solver: I. Scaling with high frequency", Plasma Sources Sci. Technol. 19, 055011 (2010).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_19_055011_2010.pdf
+----------------
+258
+Title: 
+Y. Yang and M. J. Kushner
+
+"Modeling of dual frequency capacitively coupled plasma sources utilizing a
+full-wave Maxwell solver: II. Scaling with pressure, power and 
+electronegativity", Plasma Sources Sci. Technol. 19, 055012 (2010).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_19_055012_2010.pdf
+----------------
+259
+Title: 
+Y. Yang and M. J. Kushner
+
+"450 mm Dual Frequency Capacitively Coupled Plasma Sources: Conventional, 
+Graded and Segmented Electrodes", J. Appl. Phys 108, 113306 (2010).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jap_108_113306_2010.pdf
+----------------
+260
+Title: 
+Z. Xiong and M. J. Kushner
+
+"Surface Corona-Bar Discharges for Production of Pre-ionizing UV Light for 
+Pulsed High-Pressure Plasmas", J. Phys D 43, 505204 (2010).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_43_505204_2010.pdf
+----------------
+261
+Title: 
+B. S. Sommers, J. E. Foster, N. Yu Babaeva and M. J. Kushner
+
+"Observations of Electric Discharge Streamer Propagation and Capillary
+Oscillations on the Surface of Air Bubbles in Water", J. Phys D 44, 082001 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_44_082001_2011.pdf
+----------------
+262
+Title: 
+N. Yu Babaeva and M. J. Kushner
+
+"Ion energy and angular distributions onto polymer surfaces delivered by dielectric
+barrier discharge filaments in air: I. Flat surfaces", Plasma Source Sci. Technol. 20, 035017 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_20_035017_2011.pdf
+----------------
+263
+Title: 
+N. Yu Babaeva and M. J. Kushner
+
+"Ion energy and angular distributions onto polymer surfaces delivered by dielectric
+barrier discharge filaments in air: II. Particles", Plasma Source Sci. Technol. 20, 035018 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_20_035018_2011.pdf
+----------------
+264
+Title: 
+J. Shoeb and M. J. Kushner
+
+"Mechanisms for sealing of porous low-k SiOCH by combined He and NH3
+plasma treatment", J. Vac. Sci. Technol. A 29, 051305 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JVSTA_29_051305_2011.pdf
+----------------
+265
+Title: 
+M. Wang and M. J. Kushner
+
+"Modeling of implantation and mixing damage during etching of SiO2 
+over Si in fluorocarbon plasmas", J. Vac. Sci. Technol. A 29, 051306 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JVSTA_29_051306_2011.pdf
+----------------
+266
+Title: 
+K. Takashima, I. V. Adamovich, Z. Xiong, M. J. Kushner,
+S. Starikovskaia, U. Czarnetzki and D. Luggenhölscher
+
+"Experimental and modeling analysis of fast ionization wave discharge
+propagation in a rectangular geometry", Phys. Plasmas 18, 083505 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PP_18_083505_2011.pdf
+----------------
+267
+Title: 
+Z. Xiong, M. J. Kushner,
+
+"Photo-triggering and secondary electron produced ionization in electric
+discharge ArF* excimer lasers", J. Appl. Phys 110, 083304 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JAP_110_083304_2011.pdf
+----------------
+268
+Title: 
+A. Wollny, T. Hemke, M. Gebhardt,R. P. Brinkmann, H. Boettner, J. Winter,
+V. Schulz-von der Gathen, Z. Xiong, M. J. Kushner and T. Mussenbrock,
+
+"Ionization wave propagation on a micro cavity plasma array", Appl. Phys. Lett. 99, 141504 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/APhL_99_141504_2011.pdf
+----------------
+269
+Title: 
+B. Niermann, T. Hemke, N. Y. Babaeva, M. Böke, M. J. Kushner,
+T. Mussenbrock and J. Winter,
+"Spatial dynamics of helium metastables
+in sheath or bulk dominated rf micro-plasma jets", J. Phys. D: Appl. Phys. 44, 485204 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_44_485204_2011.pdf
+----------------
+270
+Title: 
+N. Yu. Babaeva and M. J. Kushner,
+"Guest Editorial: 
+6th Triennial Special Issue of the IEEE Transactions on Plasma Science: 
+Images in Plasma Science", IEEE Transactions on Plasma Science 39, 2057 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_39_2057_2011.pdf
+----------------
+271
+Title: 
+J.-C. Wang, N. Leoni, H. Birecki, O. Gila and M. J. Kushner,
+"Electron Current From an RF Microdielectric
+Barrier Discharge", IEEE Transactions on Plasma Science 39, 2168 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_39_2168_2011.pdf
+----------------
+272
+Title: 
+M. Wang, J. E. Foster and M. J. Kushner,
+"Plasma Propagation Through
+Porous Dielectric Sheets", IEEE Transactions on Plasma Science 39, 2244 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_39_2244_2011.pdf
+----------------
+273
+Title: 
+Z. Xiong and M. J. Kushner,
+"Ionization Wave Splitting at the T-Junction of a
+Dielectric Channel", IEEE Transactions on Plasma Science 39, 2320 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_39_2320_2011.pdf
+----------------
+274
+Title: 
+S.-H. Song and M. J. Kushner,
+"Time-Resolved Electron Energy Distributions and
+Plasma Characteristics in a Pulsed Capacitively
+Coupled Plasma", IEEE Transactions on Plasma Science 39, 2542 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_39_2542_2011.pdf
+----------------
+275
+Title: 
+J. Shoeb and M. J. Kushner,
+"Polymer Cleaning From Porous Low-k
+Dielectrics in He/H2 Plasmas", IEEE Transactions on Plasma Science 39, 2828 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_39_2828_2011.pdf
+----------------
+276
+Title: 
+N. Yu. Babaeva and M. J. Kushner,
+"Dynamics of Dielectric Barrier Discharges
+Over Wounded Skin", IEEE Transactions on Plasma Science 39, 2964 (2011).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/tps_39_2964_2011.pdf
+----------------
+277
+Title: 
+Z. Xiong and M. J. Kushner,
+"Atmospheric Pressure Ionization Waves
+Propagating Through a Flexible High Aspect Ratio Capillary Channel and Impinging
+upon a Target", Plasma Sources Sci. Technol. 21, 034001 (2012).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_21_034001_2012.pdf
+----------------
+278
+Title: 
+N. Yu. Babaeva, N. Ning, D. B. Graves and M. J. Kushner,
+"Ion Activation Energy Delivered to Wounds by Atmospheric Pressure Dielectric-Barrier Discharges: Sputtering of Lipid-Like Surfaces", J. Phys. D: Appl. Phys. 45, 115203 (2012). [Featured as cover image for 21 March 2012 issue of J. Phys. D: Appl. Phys.]
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_45_115203_2012.pdf
+----------------
+279
+Title: 
+J. Shoeb, M. M. Wang and M. J. Kushner,
+"Damage by Radicals and Photons During Plasma Cleaning of Porous low-k SiOCH. I. Ar/O2 and He/H2 Plasmas", J. Vac. Sci. Technol. A 30, 041303 (2012).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JVSTA_30_041303_2012.pdf
+----------------
+280
+Title: 
+J. Shoeb and M. J. Kushner,
+"Damage by Radicals and Photons During Plasma Cleaning of Porous low-k SiOCH. II. Water Uptake and Change in Dielectric Constant", J. Vac. Sci. Technol. A 30, 041304 (2012).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JVSTA_30_041304_2012.pdf
+----------------
+281
+Title: 
+S. Samukawa, M. Hori, S. Rauf, K. Tachibana,
+P. Bruggeman, G. Kroesen, J. Ch. Whitehead,
+A. B. Murphy, A. F. Gutsol, S. Starikovskaia,
+U. Kortshagen, J.-P. Boeuf, T. J. Sommerer,
+M. J. Kushner, U. Czarnetzki and N. Mason,
+"The 2012 Plasma Roadmap (Review Article)", J. Phys. D: Appl. Phys. 45, 253001 (2012).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_45_253001_2012.pdf
+----------------
+282
+Title: 
+Z. Xiong, E. Robert, V. Sarron, J.-M. Pouvesle
+and M. J. Kushner,
+"Dynamics of Ionization Wave Splitting
+and Merging of Atmospheric-Pressure Plasmas in Branched Dielectric Tubes and Channels", J. Phys. D: Appl. Phys. 45, 275201 (2012).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_45_275201_2012.pdf
+----------------
+283
+Title: 
+S.-H. Song and M. J. Kushner,
+"Control of Electron Energy Distributions
+and Plasma Characteristics of Dual Frequency, Pulsed Capacitively Coupled Plasmas Sustained in Ar and Ar/CF4/O2", Plasma Sources Sci. Technol. 21, 055028 (2012).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_21_055028_2012.pdf
+----------------
+284
+Title: 
+M. D. Logue, H. Shin, W. Zhu, L. Xu,
+V. M. Donnelly, D. J. Economou and M. J. Kushner,
+"Ion Energy Distributions in Inductively
+Coupled Plasmas Having a Biased Boundary Electrode, Plasma Sources Sci. Technol. 21, 065009 (2012).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/psst_21_065009_2012.pdf
+----------------
+285
+Title: 
+N. Yu. Babaeva and M. J. Kushner,
+"Reactive Fluxes Delivered by Dielectric
+Barrier Discharge Filaments to Slightly Wounded Skin", J. Phys. D: Appl. Phys. 46, 025401 (2013).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_46_2_025401_2013.pdf
+----------------
+286
+Title: 
+J.-C. Wang, N. Leoni, H. Birecki, O. Gila and M. J. Kushner,
+"Electron Current Extraction from Radio Frequency Excited Micro-dielectric Barrier Discharges", J. Appl. Phys. 113, 033301 (2013).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JAP_113_033301_2013.pdf
+----------------
+287
+Title: 
+N. Yu. Babaeva and M. J. Kushner,
+ "Control of Ion Activation Energy Delivered
+to Tissue and Sensitive Materials in Atmospheric Pressure Plasmas Using Thin Porous Dielectric Sheets", J. Phys. D: Appl. Phys. 46, 125201 (2013).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_46_125201_2013.pdf
+----------------
+288
+Title: 
+Z. Xiong, E. Robert, V. Sarron, J.-M. Pouvesle and M. J. Kushner, 
+ "Atmospheric-pressure Plasma Transfer
+across Dielectric Channels and Tubes", J. Phys. D: Appl. Phys. 46, 155203 (2013).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_46_155203_2013.pdf
+----------------
+289
+Title: 
+J.-C. Wang, N. Leoni, H. Birecki, O. Gila and M. J. Kushner,
+"Characteristics of a Radio-frequency
+Micro-dielectric Barrier Discharge Array", Plasma Sources Sci. Technol. 22, 025015 (2013).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_22_025015_2013.pdf
+----------------
+290
+Title: 
+N. B. Moore, W. Gekelman, P. Pribyl, Y. Zhang and M. J. Kushner,
+"2-dimensional Ion Velocity Distributions Measured by Laser-induced Fluorescence above a Radio-frequency Biased Silicon Wafer", Physics of Plasmas 20, 083506 (2013).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PP_20_083506_2013.pdf
+----------------
+291
+Title: 
+Y. Zhang, M. J. Kushner, N. B. Moore, P. Pribyl and W. Gekelman, 
+"Space and Phase Resolved Ion Energy and Angular Distributions
+in Single- and Dual-frequency Capacitively Coupled Plasmas", J. Vac. Sci. Technol. A 31, 061311 (2013).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JVSTA_31_061311_2013.pdf
+----------------
+292
+Title: 
+W. Tian, K. Tachibana and M. J. Kushner, 
+"Plasmas Sustained in Bubbles in Water:
+Optical Emission and Excitation Mechanisms", J. Phys. D: Appl. Phys. 47, 055202 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_47_055202_2014.pdf
+----------------
+293
+Title: 
+N. Yu. Babaeva and M. J. Kushner, 
+"Interaction of Multiple Atmospheric-pressure Micro-plasma Jets in Small Arrays: He/O2 into Humid Air", Plasma Sources Sci. Technol. 23, 015007 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_23_015007_2014.pdf
+----------------
+294
+Title: 
+E. Schüngel, S. Mohr, J. Schulze, U. Czarnetzki and M. J. Kushner, 
+"Ion Distribution Functions at the Electrodes
+of Capacitively Coupled High-pressure Hydrogen Discharges", Plasma Sources Sci. Technol. 23, 015001 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_23_015001_2014.pdf
+----------------
+295
+Title: 
+S.-H. Song and M. J. Kushner, 
+"Role of the Blocking Capacitor in Control of Ion Energy Distributions in Pulsed Capacitively Coupled Plasmas Sustained in Ar/CF4/O2", J. Vac. Sci. Technol. A 32, 021306 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JVSTA_32_021306_2014.pdf
+----------------
+296
+Title: 
+W. Tian and M. J. Kushner, 
+"Atmospheric Pressure Dielectric Barrier
+Discharges Interacting with Liquid Covered Tissue", J. Phys. D: Appl. Phys. 47, 165201 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/jpd_47_165201_2014.pdf
+----------------
+297
+Title: 
+N. Yu. Babaeva, W. Tian and M. J. Kushner, 
+"The Interaction Between Plasma Filaments
+in Dielectric Barrier Discharges and Liquid Covered Wounds: Electric Fields Delivered to
+Model Platelets and Cells", J. Phys. D: Appl. Phys. 47, 235201 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_47_235201_2014.pdf
+----------------
+298
+Title: 
+O. Zatsarinny, K. Bartschat, N. Yu. Babaeva and M. J. Kushner, 
+"Electron Collisions with Cesium Atoms—benchmark Calculations and Application to Modeling an Excimer-pumped Alkali Laser", Plasma Sources Sci. Technol. 23, 035011 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_23_035011_2014.pdf
+----------------
+299
+Title: 
+J.-C. Wang, D. Zhang, N. Leoni, H. Birecki, O. Gila, and M. J. Kushner, 
+"Charging of Moving Surfaces by Corona Discharges Sustained in Air", J. Appl. Phys. 116, 043301 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JAP_116_043301_2014.pdf
+----------------
+300
+Title: 
+A. V. Klochko, S. M. Starikovskaia, Z. Xiong and M. J. Kushner, 
+"Investigation of Capillary Nanosecond Discharges in Air at Moderate Pressure: Comparison of Experiments and 2D Numerical Modelling", J. Phys. D: Appl. Phys. 47, 365202 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_47_365202_2014.pdf
+----------------
+301
+Title: 
+B. R. Weatherford, Z. Xiong, E. V. Barnat and M. J. Kushner, 
+"Spatial Profiles of Electron and Metastable Atom Densities in Positive Polarity Fast Ionization Waves Sustained in Helium", J. Appl. Phys. 116, 103305 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JAP_116_103305_2014.pdf
+----------------
+302
+Title: 
+S.-H. Song, Y. Yang, P. Chabert and M. J. Kushner, 
+"Electron Energy Distributions in a Magnetized Inductively Coupled Plasma", Physics of Plasmas 21, 093512 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PP_21_093512_2014.pdf
+----------------
+303
+Title: 
+Z. Xiong and M. J. Kushner, 
+"Branching and Path-deviation of Positive
+Streamers Resulting from Statistical Photon Transport", Plasma Sources Sci. Technol. 23,  065041 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_23_065041_2014.pdf
+----------------
+304
+Title: 
+S. A. Norberg, W. Tian, E. Johnsen and M. J. Kushner, 
+"Atmospheric Pressure Plasma Jets 
+Interacting with Liquid Covered Tissue: Touching and Not-touching the Liquid", J. Phys. D: Appl. Phys. 47,  475203 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_47_475203_2014.pdf
+----------------
+305
+Title: 
+N. Yu. Babaeva and M. J. Kushner, 
+"Self-Organization of Single Filaments and
+Diffusive Plasmas During a Single Pulse in Dielectric-Barrier Discharges", Plasma Sources Sci. Technol. 23,   065047 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_23_065047_2014.pdf
+----------------
+306
+Title: 
+C. K. Eun, X. Luo, J.-C. Wang, Z. Xiong, M. Kushner and Y. Gianchandani, 
+"A Microdischarge-Based Monolithic
+Pressure Sensor", J. Microelectromechanical Systems 23, 1300 (2014).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JMMS_23_1300_2014.pdf
+----------------
+307
+Title: 
+M. D. Logue and M. J. Kushner, 
+"Electron Energy Distributions and Electron Impact Source Functions in Ar/N2 Inductively Coupled Plasmas Using Pulsed Power", J. Appl. Phys. 117, 043301 (2015). [Featured as cover image for 28 January 2015 issue of Journal of Applied Physics.]
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JAP_117_043301_2015.pdf
+----------------
+308
+Title: 
+Y. Zhang, M. J. Kushner, S. Sriraman, A. Marakhtanov, J. Holland and A. Paterson, 
+"Control of Ion Energy and Angular Distributions in Dual-frequency Capacitively Coupled Plasmas through Power Ratios and Phase: Consequences on Etch Profiles", J. Vac. Sci. Technol. A 33, 031302 (2015).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JVSTA_33_031302_2015.pdf
+----------------
+309
+Title: 
+A. Schmidt-Bleker, S. A. Norberg, J. Winter, E. Johnsen, S. Reuter, K. D. Weltmann and M. J. Kushner, 
+"Propagation Mechanisms of Guided
+Streamers in Plasma Jets: the Influence of Electronegativity of the Surrounding Gas", Plasma Sources Sci. Technol.  24, 035022 (2015).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_24_035022_2015.pdf
+----------------
+310
+Title: 
+S. A. Norberg, E. Johnsen and M. J. Kushner, 
+"Formation of Reactive Oxygen and Nitrogen
+Species by Repetitive Negatively Pulsed Helium Atmospheric Pressure Plasma Jets Propagating into Humid Air", Plasma Sources Sci. Technol.  24, 035026 (2015).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_24_035026_2015.pdf
+----------------
+311
+Title: 
+P. Tian and M. J. Kushner, 
+"Controlling VUV Photon Fluxes in
+Low-pressure Inductively Coupled Plasmas", Plasma Sources Sci. Technol.  24, 034017 (2015).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_24_034017_2015.pdf
+----------------
+312
+Title: 
+Y. Zhang, A. Zafar, D. J. Coumou, S. C. Shannon and M. J. Kushner, 
+"Control of Ion Energy Distributions Using Phase Shifting in Multi-frequency Capacitively Coupled Plasmas", J. Appl. Phys.  117, 233302 (2015).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JAP_117_233302_2015.pdf
+----------------
+313
+Title: 
+S. A. Norberg, E. Johnsen and M. J. Kushner, 
+"Helium Atmospheric Pressure Plasma Jets Touching Dielectric and Metal Surfaces", J. Appl. Phys. 118, 013301 (2015). [Featured as cover image for 7 July 2015 issue of Journal of Applied Physics.]
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JAP_118_013301_2015.pdf
+----------------
+314
+Title: 
+L. Liu, S. Sridhar, W. Zhu, V. M. Donnelly, D. J. Economou, M. D. Logue and M. J. Kushner, 
+"External Control of Electron Energy Distributions in a Dual Tandem Inductively Coupled Plasma", J. Appl. Phys. 118, 083303 (2015).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JAP_118_083303_2015.pdf
+----------------
+315
+Title: 
+J. E. Cooley, R. Urdahl, J. Xue, M. Denning, P. Tian and M. J. Kushner, 
+"Properties of Microplasmas Excited by
+Microwaves for VUV Photon Sources", Plasma Sources Sci. Technol. 24,  065009 (2015).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_24_065009_2015.pdf
+----------------
+316
+Title: 
+W. Tian and M. J. Kushner, 
+"Long-term Effects of Multiply Pulsed
+Dielectric Barrier Discharges in Air on Thin Water Layers over Tissue: Stationary and
+Random Streamers", J. Phys. D: Appl. Phys. 48, 494002 (2015).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_48_404002_2015.pdf
+----------------
+317
+Title: 
+S. A. Norberg, E. Johnsen and M. J. Kushner, 
+"Helium Atmospheric Pressure Plasma
+Jets Interacting with Wet Cells: Delivery of Electric Fields", J. Phys. D: Appl. Phys. 49, 185201 (2016).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_49_185201_2016.pdf
+----------------
+318
+Title: 
+R. Le Picard, A. H. Markosyan, D. H. Porter, S. L. Girshick and M. J. Kushner, 
+"Synthesis of Silicon Nanoparticles in Nonthermal
+Capacitively-Coupled Flowing Plasmas: Processes and Transport",
+Plasma Chem. Plasma Process. 36, 941-972 (2016).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PCPP_36_941_2016.pdf
+----------------
+319
+Title: 
+K. Bartschat and M. J. Kushner, 
+"Electron Collisions with Atoms, Ions, Molecules, and
+Surfaces: Fundamental Science Empowering Advances in Technology",
+PNAS 113, 7026–7034 (2016).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PNAS_113_7026_2016.pdf
+----------------
+320
+Title: 
+W. Tian, A. M. Lietz and M. J. Kushner, 
+"The Consequences of Air Flow on the
+Distribution of Aqueous Species During Dielectric Barrier Discharge Treatment of Thin Water Layers",
+Plasma Sources Sci. Technol. 25, 055020 (2016).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_25_055020_2016.pdf
+----------------
+321
+Title: 
+M. J. Kushner, 
+"Viewpoint: The development of uniform atmospheric
+pressure glow discharges: appearance of stable glow discharge in air, argon, oxygen and nitrogen at atmospheric pressure using a 50 Hz source (S Okazaki et al 1993 J. Phys. D: Appl. Phys. 26 889)",
+J. Phys. D: Appl. Phys. 49, 401001 (2016).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_49_401001_2016.pdf
+----------------
+322
+Title: 
+A. M. Lietz and M. J. Kushner, 
+"Air Plasma Treatment of Liquid Covered
+Tissue: Long Timescale Chemistry",
+J. Phys. D: Appl. Phys. 49, 425204 (2016). [Corrigendum:  J. Phys. D 50, 119501 (2017)]
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_49_425204_2016.pdf
+----------------
+323
+Title: 
+P. J. Bruggeman, M. J. Kushner, B. R. Locke, J. G. E. Gardeniers,
+W. G. Graham, D. B. Graves, R. C. H. M. Hofman-Caris, D. Maric, J. P. Reid,
+E. Ceriani, D. Fernandez Rivas, J. E. Foster, S. C. Garrick, Y. Gorbanev,
+S. Hamaguchi, F. Iza, H. Jablonowski, E. Klimova, J. Kolb, F. Krcma,
+P. Lukes, Z. Machala, I. Marinov, D. Mariotti, S. Mededovic Thagard,
+D. Minakata, E. C. Neyts, J. Pawlat, Z. Lj. Petrovic, R. Pflieger,
+S. Reuter, D. C. Schram, S. Schröter, M. Shiraiwa, B. Tarabová,
+P. A. Tsai, J. R. R. Verlet, T. von Woedtke, K. R. Wilson, K. Yasui
+and G. Zvereva, 
+"Review: Plasma–liquid Interactions: a Review
+and Roadmap",
+Plasma Sources Sci. Technol. 25, 053002 (2016).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_25_053002_2016.pdf
+----------------
+324
+Title: 
+A. H. Markosyan and M. J. Kushner, 
+"Plasma Formation in Diode Pumped Alkali Lasers Sustained in Cs",
+J. Appl. Phys. 120, 193105 (2016).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JAP_120_193105_2016.pdf
+----------------
+325
+Title: 
+Y. Zhang, C. Huard, S. Sriraman, J. Belen, A. Paterson and M. J. Kushner,
+"Investigation of Feature Orientation and Consequences of Ion Tilting During Plasma Etching with a Three-dimensional Feature Profile Simulator", J. Vac. Sci. Technol. A 35, 021303 (2017).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JVSTA_36_021303_2017.pdf
+----------------
+326
+Title: 
+J. Kruszelnicki, K. W. Engeling, J. E. Foster, Z. Xiong and M. J. Kushner,
+"Propagation of Negative Electrical Discharges Through 2-dimensional Packed
+Bed Reactors", J. Phys. D: Appl. Phys. 50, 025203 (2017).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_50_025203_2017.pdf
+----------------
+327
+Title: 
+A. R. Gibson, M. Foucher, D. Marinov, P. Chabert, T. Gans, M. J. Kushner and J.-P. Booth,
+"The Role of Thermal Energy Accommodation
+and Atomic Recombination Probabilities in Low Pressure Oxygen Plasmas", Plasma Phys. Control. Fusion 59, 024004 (2017).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PPCF_59_024004_2017.pdf
+----------------
+328
+Title: 
+C. Huard, Y. Zhang, S. Sriraman, A. Paterson and M. J. Kushner,
+"Role of Neutral Transport in Aspect Ratio Dependent Plasma Etching of Three-dimensional Features", J. Vac. Sci. Technol. A 35, 05C301 (2017).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JVSTA_35_05C301_2017.pdf
+----------------
+329
+Title: 
+P. Tian and M. J. Kushner,
+"Controlling VUV Photon Fluxes in Pulsed
+Inductively Coupled Ar/Cl2 Plasmas and Potential Applications in Plasma Etching", Plasma Sources Sci. Technol. 26, 024005 (2017).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_26_024005_2017.pdf
+----------------
+330
+Title: 
+S. Huang, V. Volynets, J. R. Hamilton, S. Lee, I.-C. Song, S. Lu, J. Tennyson and M. J. Kushner,
+"Insights to Scaling Remote Plasma Sources Sustained in NF3 Mixtures", J. Vac. Sci. Technol. A 35, 031302 (2017).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JVSTA_35_031302_2017.pdf
+----------------
+331
+Title: 
+C. Huard, Y. Zhang, S. Sriraman, A. Paterson, K. J. Kanarik and M. J. Kushner,
+"Atomic Layer Etching of 3D Structures in Silicon: Self-limiting and Nonideal Reactions", J. Vac. Sci. Technol. A 35, 031306 (2017). [Featured in Beneath the AVS Surface, May 2017].
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JVSTA_35_031306_2017.pdf
+----------------
+332
+Title: 
+J. R. Hamilton, J. Tennyson, S. Huang and
+M. J. Kushner,
+"Calculated Cross Sections for Electron
+Collisions with NF3, NF2 and NF with Applications to Remote Plasma Sources", Plasma Sources Sci. Technol. 26, 065010 (2017).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_26_065010_2017.pdf
+----------------
+333
+Title: 
+A. H. Markosyan, S. R. Green, S. Deng, Y. B. Gianchandani and M. J. Kushner,
+"Miniaturized Magnet-less RF Electron Trap. I. Modeling and Analysis", J. Vac. Sci. Technol. B 35, 042001 (2017).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JVSTB_35_042001_2017.pdf
+----------------
+334
+Title: 
+S. Deng, S. R. Green, A. H. Markosyan, M. J. Kushner and Y. B. Gianchandani,
+"Miniaturized Magnet-less RF Electron Trap. II. Experimental Verification", J. Vac. Sci. Technol. B 35, 042002 (2017).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JVSTB_35_042002_2017.pdf
+----------------
+335
+Title: 
+I. Adamovich, S. D. Baalrud, A. Bogaerts, P. J. Bruggeman, M. Cappelli, V. Colombo, U. Czarnetzki, U. Ebert, J. G. Eden, P. Favia, D. B. Graves, S. Hamaguchi, G. Hieftje, M. Hori, I. D. Kaganovich, U. Kortshagen, M. J. Kushner, N J Mason18 ,
+S. Mazouffre, S. Mededovic Thagard, H.-R. Metelmann, A. Mizuno, E. Moreau, A. B. Murphy, B. A. Niemira, G. S. Oehrlein, Z. Lj. Petrovic, L. C. Pitchford, Y.-K. Pu, S. Rauf, O. Sakai, S. Samukawa, S. Starikovskaia, J. Tennyson, K. Terashima,
+M. M. Turner, M. C. M. van de Sanden, A. Vardelle, 
+"Topical Review: The 2017 Plasma Roadmap: Low Temperature Plasma Science and Technology", J. Phys. D: Appl. Phys. 50, 323001 (2017).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JPD_50_323001_2017.pdf
+----------------
+336
+Title: 
+S. J. Lanham and M. J. Kushner, 
+"Effects of a Chirped Bias Voltage on Ion Energy Distributions in Inductively Coupled Plasma Reactors", J. Appl. Phys. 122, 083301 (2017). [Featured as cover image for 28 August 2017 issue of Journal of Applied Physics.]
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/JAP_122_083301_2017.pdf
+----------------
+337
+Title: 
+A. M. Lietz, E. Johnsen, and M. J. Kushner, 
+"Plasma-induced Flow Instabilities in Atmospheric Pressure Plasma Jets", Appl. Phys. Lett. 111, 114101 (2017). [Press release]
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/APhL_111_114101_2017.pdf
+----------------
+338
+Title: 
+C. Qu, P. Tian, A. Semnani, and M. J. Kushner, 
+"Properties of Arrays of Microplasmas:
+Application to Control of Electromagnetic Waves", Plasma Sources Sci. Technol. 26, 105006 (2017).
+Absolute path: 
+http://uigelz.eecs.umich.edu/pub/articles/PSST_26_105006_2017.pdf
+----------------
+
+338 papers have been found
